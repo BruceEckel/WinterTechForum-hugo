@@ -1,0 +1,76 @@
+baseurl = "https://WinterTechForum.com/"
+languageCode = "en-us"
+title = "Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	# General information
+	# author = "Bruce Eckel"
+	description = "A Self-Organizing Open Spaces Conference."
+
+	logo = "images/wtf-web.jpg"
+	favicon = "images/wtf-favicon-96.ico"
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "indigo"
+    	accent  = "red"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+
+[social]
+	twitter = ""
+	email   = "mindviewinc@gmail.com"
+
+
+[[menu.main]]
+	name   = "Theme"
+	url    = "/"
+	weight = 10
+
+[[menu.main]]
+	name   = "An Open Spaces Conference"
+	url    = "getting-started/"
+	weight = 20
+
+[[menu.main]]
+	name   = "Schedule"
+	url    = "adding-content/"
+	weight = 30
+
+[[menu.main]]
+	name   = "Location and Lodging"
+	url    = "roadmap/"
+	weight = 40
+
+[[menu.main]]
+	name   = "Registration"
+	url    = "registration/"
+	weight = 50
+
+[[menu.main]]
+	name   = "Contact"
+	url    = "contact/"
+	weight = 60
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
