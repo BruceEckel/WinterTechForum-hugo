@@ -45,17 +45,17 @@ googleAnalytics = ""
 
 [[menu.main]]
 	name   = "An Open Spaces Conference"
-	url    = "getting-started/"
+	url    = "an-open-spaces-conference/"
 	weight = 20
 
 [[menu.main]]
 	name   = "Schedule"
-	url    = "adding-content/"
+	url    = "schedule/"
 	weight = 30
 
 [[menu.main]]
 	name   = "Location and Lodging"
-	url    = "roadmap/"
+	url    = "location-and-lodging/"
 	weight = 40
 
 [[menu.main]]

@@ -1,55 +1,42 @@
 ---
-date: 2016-03-08T21:07:13+01:00
-title: Material for Hugo
+title: Conference Theme
 type: index
-weight: 0
 ---
 
-## Beautiful documentation
+Theme: *Powering Singularity Acceleration with Artificial Intelligence, Big Data, and Commodity Computing*
+----------------------------------------------------------------------------------------------------------
 
-Material is a theme for [Hugo](https://gohugo.io), a fast and flexible static site generator. It is built using Google's [material design](https://www.google.com/design/spec/material-design/introduction.html)
-guidelines, fully responsive, optimized for touch and pointer devices as well
-as all sorts of screen sizes.
+-   Machine Learning
+-   TensorFlow
+-   Data Science
+-   Platforms for Big Data
+-   Distributed Big Data Systems
+-   From Big Data to Responsive Systems
+-   Containerizing the Serverless Cloud
+-   Tradeoffs in Software
+-   Java 8 Concurrency
+-   Commit To Production, Without Human Intervention
+-   And lots more
+-   Plus anything else anyone wants to talk about, of course
+-   And our business track
 
-![Material Screenshot](/images/screen.png)
+Although the theme sets the general tone of the conference, it doesn't
+preclude session topics that might be considered "off theme." The goal
+of the theme is to stimulate ideas, not to prevent discussion.
 
-Material is very lightweight – it is built from scratch using Javascript and
-CSS that weighs less than 30kb (minified, gzipped and excluding Google Fonts
-and Analytics). Yet, it is highly customizable and degrades gracefully in older
-browsers.
+Wednesday Hackathon
+-------------------
 
-## Quick start
+The general theme of the hackathons are "Alternative Languages on the
+JVM." They will take place in either the conference venue
+([@PH]{.citation}) or the various houses that are rented by groups in
+town. In the past there have been Scala, Jython, JRuby and Groovy
+hackathons, and also hackathons that focus on a particular product or
+technology. The theme is just a suggestion; if you can get a group
+together that wants to explore a topic, go for it.
 
-Install with `git`:
+In the past, hackathons have explored new technologies or even created
+new product prototypes.
 
-```sh
-git clone git@github.com:digitalcraftsman/hugo-material-docs.git themes/hugo-material-docs
-```
-
-## Features
-
-- Beautiful, readable and very user-friendly design based on Google's material
-  design guidelines, packed in a full responsive template with a well-defined
-  and [easily customizable color palette]({{< relref "getting-started/index.md#changing-the-color-palette" >}}), great typography, as well as a
-  beautiful search interface and footer.
-
-- Well-tested and optimized Javascript and CSS including a cross-browser
-  fixed/sticky header, a drawer that even works without Javascript using
-  the [checkbox hack](http://tutorialzine.com/2015/08/quick-tip-css-only-dropdowns-with-the-checkbox-hack/) with fallbacks, responsive tables that scroll when
-  the screen is too small and well-defined print styles.
-
-- Extra configuration options like a [project logo]({{< relref "getting-started/index.md#adding-a-logo" >}}), links to the authors
-  [GitHub and Twitter accounts]({{< relref "getting-started/index.md#adding-a-github-and-twitter-account" >}}) and display of the amount of stars the
-  project has on GitHub.
-
-- Web application capability on iOS – when the page is saved to the homescreen,
-  it behaves and looks like a native application.
-
-See the [getting started guide]({{< relref "getting-started/index.md" >}}) for instructions how to get
-it up and running.
-
-## Acknowledgements
-
-Last but not least a big thank you to [Martin Donath](https://github.com/squidfunk). He created the original [Material theme](https://github.com/squidfunk/mkdocs-material) for Hugo's companion [MkDocs](http://www.mkdocs.org/). This port wouldn't be possible without him.
-
-Furthermore, thanks to [Steve Francia](https://gihub.com/spf13) for creating Hugo and the [awesome community](https://github.com/spf13/hugo/graphs/contributors) around the project.
+The evening of the hackathon, results are presented in the *Hackathon
+Showcase Lightning Talks*.
