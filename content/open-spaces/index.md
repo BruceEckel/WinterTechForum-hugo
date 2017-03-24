@@ -10,7 +10,7 @@ ensuring that you are always having the most interesting
 **conversation** possible. The emphasis is on *discussion*, instead of
 listening to eyes-forward presentations.
 
-> [Click here to view a brief screencast about Open Spaces](http://media.libsyn.com/media/dickwall/Open SpacesIntro.mov)
+> [View a brief screencast about Open Spaces](http://media.libsyn.com/media/dickwall/Open SpacesIntro.mov)
 
 (Open Spaces conferences have also been called "Unconferences." Here's a
 [Business Week
