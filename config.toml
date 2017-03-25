@@ -1,4 +1,3 @@
-# baseurl = "https://WinterTechForum.com/"
 baseurl = "https://bruceeckel.github.io/WinterTechForum/"
 publishDir = "docs"
 languageCode = "en-us"
@@ -37,6 +36,7 @@ googleAnalytics = ""
 
 [social]
 	twitter = ""
+	github  = "BruceEckel/WinterTechForum"
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
