@@ -1,1 +1,2 @@
-hugo -d docs 
+rm -rf docs
+hugo -d docs

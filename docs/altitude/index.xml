@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Altitudes on Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado</title>
-    <link>https://www.wintertechforum.com/altitude/index.xml</link>
+    <link>https://bruceeckel.github.io/WinterTechForum/altitude/index.xml</link>
     <description>Recent content in Altitudes on Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://www.wintertechforum.com/altitude/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bruceeckel.github.io/WinterTechForum/altitude/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Altitude</title>
-      <link>https://www.wintertechforum.com/altitude/</link>
+      <link>https://bruceeckel.github.io/WinterTechForum/altitude/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.wintertechforum.com/altitude/</guid>
+      <guid>https://bruceeckel.github.io/WinterTechForum/altitude/</guid>
       <description>&lt;p&gt;We are at 9,000 feet in Crested Butte so you will feel the altitude. Tips for preventing altitude-hurt:&lt;/p&gt;
 
 &lt;ol&gt;
