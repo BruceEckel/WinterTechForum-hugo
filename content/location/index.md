@@ -1,5 +1,6 @@
 ---
 title: Location
+weight: 50
 ---
 
 Crested Butte is a small resort town located at about 9000 feet, near

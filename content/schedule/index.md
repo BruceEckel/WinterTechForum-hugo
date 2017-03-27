@@ -1,5 +1,6 @@
 ---
 title: Schedule
+weight: 40
 ---
 
 -   **Sunday 6:00pm:**\

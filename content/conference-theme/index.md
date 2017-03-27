@@ -1,5 +1,6 @@
 ---
 title: Conference Theme
+weight: 20
 ---
 
 Theme: *Powering Singularity Acceleration with Artificial Intelligence, Big Data, and Commodity Computing*

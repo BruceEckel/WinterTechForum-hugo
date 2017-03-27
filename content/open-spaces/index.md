@@ -1,5 +1,6 @@
 ---
 title: An Open Spaces Conference
+weight: 30
 ---
 
 What's the best thing that happened at the last conference you attended?

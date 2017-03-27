@@ -1,5 +1,6 @@
 ---
 title: Registration
+weight: 80
 ---
 
 *Price does not include skiing, which is optional. For beginners, ski

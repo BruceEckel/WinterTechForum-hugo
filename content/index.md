@@ -1,6 +1,7 @@
 ---
 title: Overview
 type: index
+weight: 10
 ---
 
 ![Hiker and Mountains](/images/wtf-web-nodate.jpg)
