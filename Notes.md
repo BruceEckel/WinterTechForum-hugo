@@ -1,1 +1,2 @@
+- Gophercon uses https://ti.to which looks very nice
 - Consider using https://groups.io/
