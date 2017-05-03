@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado</title>
-    <link>https://bruceeckel.github.io/WinterTechForum/index.xml</link>
+    <link>/WinterTechForum.com/index.xml</link>
     <description>Recent content on Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://bruceeckel.github.io/WinterTechForum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/WinterTechForum.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Overview</title>
-      <link>https://bruceeckel.github.io/WinterTechForum/</link>
+      <link>/WinterTechForum.com/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bruceeckel.github.io/WinterTechForum/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://bruceeckel.github.io/WinterTechForum/images/wtf-web-nodate.jpg&#34; alt=&#34;Hiker and Mountains&#34; /&gt;&lt;/p&gt;
+      <guid>/WinterTechForum.com/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;WinterTechForum.com/images/wtf-web-nodate.jpg&#34; alt=&#34;Hiker and Mountains&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;span style=&#34;font-size:75%&#34;&gt;(Formerly The Java Posse Roundup)&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
 &lt;span style=&#34;font-size:250%&#34;&gt;March 6-10, 2017&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;
@@ -29,17 +29,17 @@ Price: $750&lt;/span&gt;&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;Chris Hartjes on his &lt;a href=&#34;https://www.littlehart.net/atthekeyboard/2017/03/12/fighting-fear-and-loathing-in-crested-butte/&#34;&gt;First WTF Experience&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://bruceeckel.github.io/WinterTechForum/images/CrestedButte.jpg&#34; alt=&#34;Crested Butte at Night&#34; /&gt;&lt;br /&gt;
+&lt;p&gt;&lt;img src=&#34;WinterTechForum.com/images/CrestedButte.jpg&#34; alt=&#34;Crested Butte at Night&#34; /&gt;&lt;br /&gt;
 Photo courtesy &lt;a href=&#34;http://www.jcleacock.com/&#34;&gt;JC Leacock&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Conference Theme</title>
-      <link>https://bruceeckel.github.io/WinterTechForum/conference-theme/</link>
+      <link>/WinterTechForum.com/conference-theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bruceeckel.github.io/WinterTechForum/conference-theme/</guid>
+      <guid>/WinterTechForum.com/conference-theme/</guid>
       <description>
 
 &lt;h2 id=&#34;theme-powering-singularity-acceleration-with-artificial-intelligence-big-data-and-commodity-computing&#34;&gt;Theme: &lt;em&gt;Powering Singularity Acceleration with Artificial Intelligence, Big Data, and Commodity Computing&lt;/em&gt;&lt;/h2&gt;
@@ -84,10 +84,10 @@ Showcase Lightning Talks&lt;/em&gt;.&lt;/p&gt;
     
     <item>
       <title>An Open Spaces Conference</title>
-      <link>https://bruceeckel.github.io/WinterTechForum/open-spaces/</link>
+      <link>/WinterTechForum.com/open-spaces/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bruceeckel.github.io/WinterTechForum/open-spaces/</guid>
+      <guid>/WinterTechForum.com/open-spaces/</guid>
       <description>
 
 &lt;p&gt;What&amp;rsquo;s the best thing that happened at the last conference you attended?
@@ -225,10 +225,10 @@ this.&amp;rdquo;&lt;/p&gt;
     
     <item>
       <title>Schedule</title>
-      <link>https://bruceeckel.github.io/WinterTechForum/schedule/</link>
+      <link>/WinterTechForum.com/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bruceeckel.github.io/WinterTechForum/schedule/</guid>
+      <guid>/WinterTechForum.com/schedule/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Sunday 6:00pm:&lt;/strong&gt;&lt;br /&gt;
 Welcome Barbeque at Bruce&amp;rsquo;s House (107 WhiteRock). Bring something
@@ -305,10 +305,10 @@ responsibility, although groups are likely to form. See
     
     <item>
       <title>Location</title>
-      <link>https://bruceeckel.github.io/WinterTechForum/location/</link>
+      <link>/WinterTechForum.com/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bruceeckel.github.io/WinterTechForum/location/</guid>
+      <guid>/WinterTechForum.com/location/</guid>
       <description>
 
 &lt;p&gt;Crested Butte is a small resort town located at about 9000 feet, near
@@ -357,10 +357,10 @@ lodging and the Crested Butte experience.&lt;/p&gt;
     
     <item>
       <title>Lodging</title>
-      <link>https://bruceeckel.github.io/WinterTechForum/lodging/</link>
+      <link>/WinterTechForum.com/lodging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bruceeckel.github.io/WinterTechForum/lodging/</guid>
+      <guid>/WinterTechForum.com/lodging/</guid>
       <description>&lt;p&gt;One of the most popular things to do for conferences is to rent houses
 together. You can do this through the conference mailing list &amp;ndash; often
 one person finds the house, and then others come and fill it up.&lt;/p&gt;
@@ -392,10 +392,10 @@ houses.&lt;/p&gt;
     
     <item>
       <title>Altitude</title>
-      <link>https://bruceeckel.github.io/WinterTechForum/altitude/</link>
+      <link>/WinterTechForum.com/altitude/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bruceeckel.github.io/WinterTechForum/altitude/</guid>
+      <guid>/WinterTechForum.com/altitude/</guid>
       <description>&lt;p&gt;We are at 9,000 feet in Crested Butte so you will feel the altitude. Tips for preventing altitude-hurt:&lt;/p&gt;
 
 &lt;ol&gt;
@@ -424,10 +424,10 @@ seems to prevent most of the problems.&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Registration</title>
-      <link>https://bruceeckel.github.io/WinterTechForum/registration/</link>
+      <link>/WinterTechForum.com/registration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bruceeckel.github.io/WinterTechForum/registration/</guid>
+      <guid>/WinterTechForum.com/registration/</guid>
       <description>
 
 &lt;p&gt;&lt;em&gt;Price does not include skiing, which is optional. For beginners, ski
@@ -450,10 +450,10 @@ form.&lt;/strong&gt;&lt;/p&gt;
     
     <item>
       <title>Contact</title>
-      <link>https://bruceeckel.github.io/WinterTechForum/contact/</link>
+      <link>/WinterTechForum.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bruceeckel.github.io/WinterTechForum/contact/</guid>
+      <guid>/WinterTechForum.com/contact/</guid>
       <description>&lt;p&gt;Questions? Email Mindview LLC &lt;a href=&#34;mailto:mindviewinc@gmail.com&#34;&gt;mindviewinc@gmail.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

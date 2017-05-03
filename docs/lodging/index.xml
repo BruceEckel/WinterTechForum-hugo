@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lodgings on Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado</title>
-    <link>https://bruceeckel.github.io/WinterTechForum/lodging/index.xml</link>
+    <link>/WinterTechForum.com/lodging/index.xml</link>
     <description>Recent content in Lodgings on Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://bruceeckel.github.io/WinterTechForum/lodging/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/WinterTechForum.com/lodging/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lodging</title>
-      <link>https://bruceeckel.github.io/WinterTechForum/lodging/</link>
+      <link>/WinterTechForum.com/lodging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bruceeckel.github.io/WinterTechForum/lodging/</guid>
+      <guid>/WinterTechForum.com/lodging/</guid>
       <description>&lt;p&gt;One of the most popular things to do for conferences is to rent houses
 together. You can do this through the conference mailing list &amp;ndash; often
 one person finds the house, and then others come and fill it up.&lt;/p&gt;
