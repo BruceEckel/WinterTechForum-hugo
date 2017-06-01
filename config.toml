@@ -1,4 +1,4 @@
-baseurl = "http://bruceeckel.github.io/WinterTechForum/"
+baseurl = "http://WinterTechForum.github.io"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado"
@@ -36,7 +36,7 @@ googleAnalytics = ""
 
 [social]
 	twitter = ""
-	github  = "BruceEckel/WinterTechForum"
+	github  = "WinterTechForum/WinterTechForum.github.io"
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
