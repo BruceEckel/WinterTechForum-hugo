@@ -1,4 +1,4 @@
-# WinterTechForum
+# The Winter Tech Forum Hugo Static Site Source
 Hugo Static Site for the [Winter Tech Forum Conference](www.WinterTechForum.com).
 
 Because of the theme, the site automatically works well on phones as well as computers and tablets.
