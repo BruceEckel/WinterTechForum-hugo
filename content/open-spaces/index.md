@@ -11,17 +11,17 @@ ensuring that you are always having the most interesting
 **conversation** possible. The emphasis is on *discussion*, instead of
 listening to eyes-forward presentations.
 
-> [View a brief screencast about Open Spaces](http://media.libsyn.com/media/dickwall/Open SpacesIntro.mov)
-
-(Open Spaces conferences have also been called "Unconferences." Here's a
-[Business Week
-Article](http://www.businessweek.com/magazine/content/07_20/b4034080.htm)).
-
 Open Spaces is a simple methodology for self-organizing conference tracks.
 It relies on participation by people who have a passion for the topics
 to be discussed. There is no preplanned list of topics, only time slots
 and a space in the main meeting room where interested participants
 propose topics and pick time slots.
+
+> [View a brief screencast about Open Spaces](http://media.libsyn.com/media/dickwall/Open SpacesIntro.mov)
+
+(Open Spaces conferences have also been called "Unconferences." Here's a
+[Business Week
+Article](http://www.businessweek.com/magazine/content/07_20/b4034080.htm)).
 
 Open Spaces have been used for conferences and as a facilitation technique
 for company meetings, community organizations, and other groups that

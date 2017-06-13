@@ -7,7 +7,7 @@ weight: 10
 ![Hiker and Mountains](/images/wtf-web-nodate.jpg)
 
 <span style="font-size:75%">(Formerly The Java Posse Roundup)</span><br/><br/>
-<span style="font-size:250%">March 6-10, 2017</span><br/><br/>
+<span style="font-size:250%">Feb 26 - March 2, 2018</span><br/><br/>
 <span style="font-size:150%">Attendance limited to 40<br/>
 Price: $750</span>
 
