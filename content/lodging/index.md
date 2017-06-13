@@ -1,6 +1,6 @@
 ---
 title: Lodging
-weight: 60
+weight: 70
 ---
 
 One of the most popular things to do for conferences is to rent houses

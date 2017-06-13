@@ -23,10 +23,6 @@ that site only lists hotel-style lodging; there is also a [very nice
 hostel](http://www.cbhostel.com/), and numerous AirB&B's and VRBO-style
 spaces available.
 
-## Airline tips
-
-https://sites.google.com/site/javaposseroundup/airline-tips
-
 High-speed Internet is available in the conference location and at
 several locations within easy walking distance of the conference
 location. Many lodgings provide Internet access but you should ask to

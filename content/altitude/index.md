@@ -1,6 +1,6 @@
 ---
 title: Altitude
-weight: 70
+weight: 80
 ---
 
 We are at 9,000 feet in Crested Butte so you will feel the altitude. Tips for preventing altitude-hurt:

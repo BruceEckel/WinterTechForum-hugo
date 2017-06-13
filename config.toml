@@ -64,24 +64,29 @@ googleAnalytics = ""
 	weight = 50
 
 [[menu.main]]
+	name   = "Travel"
+	url    = "travel/"
+	weight = 60
+
+[[menu.main]]
 	name   = "Lodging"
 	url    = "lodging/"
-	weight = 60
+	weight = 70
 
 [[menu.main]]
 	name   = "Altitude"
 	url    = "altitude/"
-	weight = 70
+	weight = 80
 
 [[menu.main]]
 	name   = "Registration"
 	url    = "registration/"
-	weight = 80
+	weight = 90
 
 [[menu.main]]
 	name   = "Contact"
 	url    = "contact/"
-	weight = 90
+	weight = 100
 
 
 [blackfriday]

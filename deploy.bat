@@ -1,3 +1,3 @@
 @echo off
-rem cp -R public\* ..\WinterTechForum.github.io
+hugo
 py -3 deploy.py
