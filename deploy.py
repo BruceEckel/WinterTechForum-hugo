@@ -5,27 +5,31 @@ import shutil
 
 target = Path.cwd().parent / "WinterTechForum.github.io"
 
+def unknown(item):
+    print("UNKNOWN ITEM: {}".format(item))
+    sys.exit(1)
+
 for item in target.iterdir():
     if item.name == ".git":
         continue
-    elif item.is_file():
-        print("removing FILE: {}".format(item))
+    print("removing {}".format(item.name))
+    if item.is_file():
         item.unlink()
     elif item.is_dir():
-        print("removing DIR: {}".format(item))
         shutil.rmtree(item)
     else:
-        print("UNKNOWN ITEM")
-        sys.exit(1)
+        unknown(item)
 
 for src in (Path.cwd() / "public").iterdir():
-    print(src)
+    print("copying {}".format(src.name))
     if src.is_file():
-        print("copying FILE: {}".format(src))
         shutil.copy(src, target)
     elif src.is_dir():
-        print("copying DIR: {}".format(src))
-        shutil.copytree(src, target/ src.name)
+        shutil.copytree(src, target / src.name)
     else:
-        print("UNKNOWN ITEM")
-        sys.exit(1)
+        unknown(src)
+
+CNAME = Path.cwd() / "CNAME"
+if CNAME.exists():
+    print("copying CNAME")
+    shutil.copy(CNAME, target)
