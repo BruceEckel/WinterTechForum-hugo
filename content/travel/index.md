@@ -10,24 +10,34 @@ weight: 60
     get a nonstop flight there). Before buying your airline ticket, make sure the
     return timing for the bus works.
 
-1. Take the [Light Rail from Denver Airport to Union Station](https://www.denver.org/about-denver/transportation/airport-rail/).
+1.  Take the [Light Rail from Denver Airport to Union
+    Station](https://www.denver.org/about-denver/transportation/airport-rail/)
+    ($9). **NOTE**: Stay at Union Station -- the Gunnison bus departs from a lower
+    level from where the light rail lets off. You don't need to leave Union
+    Station.
 
-1. Take the [Bus from Union Station to Gunnison](https://webstore.trailways.com/buy-bus-tickets/denver-co-to-gunnison-co). You should buy your ticket online, when you make your airline reservation.
+1.  Take the [Bus from Union Station to Gunnison](
+    https://webstore.trailways.com/buy-bus-tickets/denver-co-to-gunnison-co)
+    ($37). You should buy your ticket online, when you make your airline
+    reservation.
 
-1. Get off at the [Powerstop Gas Station & Cafe](http://www.the-powerstop.com/).
+1.  Get off at the [Powerstop Gas Station & Cafe](http://www.the-powerstop.com/).
 
-1. Travel the rest of the way to Crested Butte via Alpine Express (you'll need
-to make a reservation ahead of time). "We typically pick up passengers at the
-Powerstop bus stop and bring them to where they are staying at in Crested
-Butte. The cost is $37.53 one way per adult or $68.38 roundtrip for most
-addresses." From the [Alpine Express home
-page](http://alpineexpressshuttle.com), click on "Reservations," then, below
-"Gunnison/Crested Butte Airport to/from Crested Butte," select either "Adult
-Round Trip" or "Adult One Way." Put in the date, the bus arrival time under
-"flight arrival time", and put "Powerstop" in the space labeled "Name of
-Hotel/Condo or Lodging Address." You can leave the rest of the fields alone.
-Alpine Express will email you a confirmation. If you need to you can also
-contact them: <info@alpineexpressshuttle.com>.
+1.  Travel the rest of the way to Crested Butte via Alpine Express (you'll need to
+    make a reservation ahead of time). "We typically pick up passengers at the
+    Powerstop bus stop and bring them to where they are staying at in Crested
+    Butte. The cost is $37.53 one way per adult or $68.38 roundtrip for most
+    addresses." From the [Alpine Express home
+    page](http://alpineexpressshuttle.com), click on "Reservations," then, below
+    "Gunnison/Crested Butte Airport to/from Crested Butte," select either "Adult
+    Round Trip" or "Adult One Way." Put in the date, the bus arrival time under
+    "flight arrival time", and put "Powerstop" in the space labeled "Name of
+    Hotel/Condo or Lodging Address." You can leave the rest of the fields alone.
+    Alpine Express will email you a confirmation. If you need to you can also
+    contact them: <info@alpineexpressshuttle.com>.
+
+1.  For your return trip, reverse the order of the above. Note that if you buy a
+    round-trip ticket from Alpine Express the total cost is a bit cheaper.
 
 
 ## The Cheapest Way (With Others)
@@ -46,7 +56,7 @@ contact them: <info@alpineexpressshuttle.com>.
 
 
 ## Other alternatives
--   There are coaches that can be rented for groups, to take you to Crested Butte
+-   Coaches can be rented for groups, to take you to Crested Butte
 -   Montrose airport (about an hour further away than Gunnison) can sometimes be more
-    reliable than Gunnison. There are services to bring you from Montrose to Crested
-    Butte, or you can rent a car.
+    reliable than Gunnison in the Winter. There are services to bring you from Montrose
+    to Crested Butte, or you can rent a car.
