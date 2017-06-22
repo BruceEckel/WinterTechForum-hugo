@@ -30,7 +30,7 @@ weight: 60
     addresses." From the [Alpine Express home
     page](http://alpineexpressshuttle.com), click on "Reservations," then, below
     "Gunnison/Crested Butte Airport to/from Crested Butte," select either "Adult
-    Round Trip" or "Adult One Way." Put in the date, the bus arrival time under
+    Round Trip" or "Adult One Way." Put in the date, the bus arrival time (6:30 pm) under
     "flight arrival time", and put "Powerstop" in the space labeled "Name of
     Hotel/Condo or Lodging Address." You can leave the rest of the fields alone.
     Alpine Express will email you a confirmation. If you need to you can also
