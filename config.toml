@@ -15,6 +15,7 @@ googleAnalytics = ""
 
 	logo = "/images/wtf-web.jpg"
 	favicon = "images/wtf-favicon-96.ico"
+	banner_image = "/images/WinterTechForumBanner.png"
 
 	permalink = "#"
 

@@ -24,6 +24,11 @@
 
 	<article class="article">
 		<div class="wrapper">
+      			{{ with .Site.Params.banner_image }}
+				<div class="logo">
+					<img src="{{ $.Site.BaseURL }}{{ . }}">
+				</div>
+			{{ end }}
 			{{ range where .Site.Pages "Type" "index" }}
 				<h1>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
 
