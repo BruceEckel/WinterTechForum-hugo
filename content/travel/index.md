@@ -5,14 +5,14 @@ weight: 60
 
 ## The Cheapest Way (On Your Own)
 
-1.  Fly to Denver airport on a discount airline like Southwest, arriving with
-    enough time to get to the bus. (Denver is a Southwest hub, so you can usually
-    get a nonstop flight there). Before buying your airline ticket, make sure the
+1.  Fly to Denver airport on a discount airline like Southwest. Denver is a
+    Southwest hub, so you can usually get a nonstop flight. Arrive with enough
+    time to get to the bus. Before buying your airline ticket, make sure the
     return timing for the bus works.
 
 1.  Take the [Light Rail from Denver Airport to Union
     Station](https://www.denver.org/about-denver/transportation/airport-rail/)
-    ($9). **NOTE**: Stay at Union Station -- the Gunnison bus departs from a lower
+    ($9). **NOTE**: Remain at Union Station -- the Gunnison bus departs from a lower
     level from where the light rail lets off. You don't need to leave Union
     Station.
 
