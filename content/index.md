@@ -15,6 +15,8 @@ Price: $750</span><br/>
 
 - *The roundup has been the best and most transformative conference of my life, by far. It's directly responsible for getting me where I am.* -- Joe Sondow
 
+- *I'm still stunned by how impactful WTF is .. each year I walk away with a sense of knowing what I need to focus on that will help make an impact on my team and our projects.* -- Matt Brandt
+
 - Dianne Marsh's [Summary of the 2016 WTF](http://diannemarsh.com/conference-summary-winter-tech-forum-2016/).
 
 - Chris Hartjes on his [First WTF Experience](https://www.littlehart.net/atthekeyboard/2017/03/12/fighting-fear-and-loathing-in-crested-butte/).
