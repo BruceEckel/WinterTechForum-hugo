@@ -10,7 +10,7 @@ weight: 10
 <span style="font-size:150%">Attendance limited to 40<br/>
 Price: $750</span><br/>
 <span style="font-size:90%">If you've previously attended any of the Crested
-<Butte events and need financial assistance,
+Butte events and need financial assistance,
 <href="https://wintertechforum.github.io/contact/">make a
 request</a>.</span>
 
