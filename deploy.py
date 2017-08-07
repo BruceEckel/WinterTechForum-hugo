@@ -10,7 +10,7 @@ def unknown(item):
     sys.exit(1)
 
 for item in target.iterdir():
-    if item.name == ".git":
+    if item.name == ".git" or item.name == "CNAME":
         continue
     print("removing {}".format(item.name))
     if item.is_file():
