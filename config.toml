@@ -1,5 +1,5 @@
 # baseurl = "https://WinterTechForum.github.io"
-baseurl = "https://WinterTechForum.com"
+baseurl = "http://WinterTechForum.com"
 languageCode = "en-us"
 title = "Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado Feb 26 - March 2, 2018"
 theme = "hugo-material-docs"
