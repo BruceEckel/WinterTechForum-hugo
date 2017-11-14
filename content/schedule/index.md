@@ -3,72 +3,132 @@ title: Schedule
 weight: 40
 ---
 
--   **Sunday 6:00pm:**\
-    Welcome Barbeque at Bruce's House (107 WhiteRock). Bring something
-    to grill, cook, or share.\
-    \
-    \
+**Pre-conference**: If you arrive early, post something on Slack. If I or others
+are around and available, we might be able to come out for meals or other
+activities.
 
--   **Monday 8:30am:**\
-    Conference Overview\
-    Introduction to Open Spaces\
-    Initial talk topics and organization\
-    Session 1\
-    **11:00am-12:00pm:** Session 2\
-    **Afternoon:** lunch/workshops/hackathons/free time\
-    **(PH downstairs unavailable 3:30pm-5pm)**\
-    **Evening:** Groups go to dinner or informal barbeque\
-    **Followed by:** Lightning talks 8pm [@PH&lt;br]{.citation}&gt;
-    **Followed by:** Hackathon Mixer 9pm [@Rumors]{.citation}
-    (create/discover your team)\
-    \
-    \
+**Post-conference**: Often people stay the day after the conference or for the
+weekend; informal gatherings have been known to happen. Sometimes there is
+a post-conference [Developer Retreat](http://developer-retreat.com).
 
--   **Tuesday 8:30-9:30am:** Session 3 **10:00-11:00am:** Session 4\
-    **11:30-12:30pm:** Session 5\
-    **Afternoon:** lunch/workshops/hackathons/free time\
-    **(PH downstairs unavailable 5:00pm-6:30pm)**\
-    **Followed by:** Lightning talks 8pm [@PH&lt;br]{.citation}&gt;
-    **Followed by:** Pub discussions\
-    \
-    \
+***********************************
 
--   **Wednesday:** Hackathon day\
-    **Evening:** Groups go to dinner or informal barbeque\
-    **Followed by:** Hackathon Showcase Lightning Talks 8pm
-    [@PH&lt;br]{.citation}&gt; **(PH downstairs unavailable noon-2pm)**\
-    **(PH all unavailable 5pm-8pm)**\
-    **Followed by:** Pub discussions\
-    \
-    \
+Sunday 6:00pm
+-------------
 
--   **Thursday 8:30-9:30am:** Session 6\
-    **10:00-11:00am:** Session 7\
-    **11:30-12:30pm:** Session 8\
-    **Afternoon:** lunch/workshops/hackathons/free time\
-    **Evening:** Progressive Dinner at Rental Houses\
-    **Followed by:** Event TBA\
-    \
-    \
+Welcome Potluck Barbeque at Bruce's House (107 WhiteRock). Bring something
+to grill, cook, or share.
 
--   **Friday 8:30-9:30am:** Session 9\
-    **(PH downstairs unavailable 7am-9:00am)**\
-    **10:00-11:00am:** Session 10\
-    **11:30-12:30pm:** Closing Session\
-    **Afternoon:** lunch/workshops/hackathons/free time\
-    **(PH downstairs unavailable 4pm-5:30pm)**\
-    **Evening:** Ski/Snowshoe to catered Yurt dinner (optional; requires
-    signup)\
-    \
-    \
+Go to the corner of First and WhiteRock, and you'll see a building of four
+townhomes with solar panels on the roof. My unit is the furthest away from
+the corner, and you'll see a little white cargo trailer in front. I usually
+have colorful lights on, as well.
 
--   **Saturday Morning:** Barry's Breakfast at Bruce's house; Airport
-    shuttles can pick you up there.\
-    \
-    \
+***********************************
 
-The "free time" slots can be used for skiing, and allow you to purchase
-a 1/2 day afternoon pass. You may also organize alternative activities
-during the mid-day break. Skiing is completely optional, and is your
-responsibility, although groups are likely to form. See
-[www.skicb.com](http://www.skicb.com/) for more information.
+Monday
+------
+
+- **Breakfast** Post your plans on Slack if you want others to join you.
+
+- **9am**\
+Conference Overview\
+Introduction to Open Spaces\
+Initial talk topics and organization\
+Session 1
+
+- **11:10-12:00** Session 2
+
+- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+
+- **Evening** Groups go to dinner or informal barbeque at Bruce's
+
+- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall\
+**Followed by:** Pub discussions
+
+***********************************
+
+Tuesday
+-------
+
+- **Breakfast** Post your plans on Slack if you want others to join you.
+
+- **9-9:50am** Session 3
+
+- **9:50-10:20** Break
+
+- **10:20-11:10** Session 4
+
+- **11:10-11:40** Break
+
+- **11:40-12:30** Session 5
+
+- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+
+- **Evening** Groups go to dinner or informal barbeque at Bruce's
+
+- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall\
+**Followed by:** Pub discussions
+
+***********************************
+
+Wednesday: Hackathon day
+------------------------
+
+[Details]({{< relref "hackathon/index.md" >}})
+
+- **Evening** Groups go to dinner or informal barbeque at Bruce's
+
+- **8pm** Hackathon Showcase Lightning Talks \
+**Followed by:** Pub discussions
+
+***********************************
+
+Thursday
+--------
+
+- **Breakfast** Post your plans on Slack if you want others to join you.
+
+- **9-9:50am** Session 6
+
+- **9:50-10:20** Break
+
+- **10:20-11:10** Session 7
+
+- **11:10-11:40** Break
+
+- **11:40-12:30** Session 8
+
+- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+
+- **Evening** Progressive Dinner at Rental Houses\
+**Followed by:** Event TBA
+
+***********************************
+
+Friday
+------
+
+- **Breakfast** Post your plans on Slack if you want others to join you.
+
+- **9-9:50am** Session 9
+
+- **9:50-10:20** Break
+
+- **10:20-11:10** Session 10
+
+- **11:10-11:40** Break
+
+- **11:40-12:30** Session Closing Session
+
+- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+
+- **Evening** Ski/Snowshoe to catered Yurt dinner
+
+***********************************
+
+Saturday Morning
+----------------
+
+- **Potluck Breakfast at Bruce's house**\
+  Airport shuttles & group drivers can pick you up there.

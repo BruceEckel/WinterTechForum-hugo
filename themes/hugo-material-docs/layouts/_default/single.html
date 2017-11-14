@@ -13,7 +13,7 @@
 <input class="toggle" type="checkbox" id="toggle-search">
 <label class="toggle-button overlay" for="toggle-drawer"></label>
 
-<header class="header">
+<header class="header" {{ with .Site.Params.palette.header_color }}style="background-color: {{ . }};"{{ end }}>
 	{{ partial "header" . }}
 </header>
 
@@ -29,7 +29,7 @@
 				<img src="{{ $.Site.BaseURL }}{{ . }}">
 				</div>
 			{{ end }}
-			<h1>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
+			<h1 {{ with .Site.Params.palette.h1_ruler_color }}style="border-bottom: 3px solid {{ . }};"{{ end }}>{{ .Title }} {{ if .IsDraft }} (Draft){{ end }}</h1>
 
 			{{ .Content }}
 
@@ -40,7 +40,7 @@
 				{{/* Footer Text */}}
 			</aside>
 
-			<footer class="footer">
+			<footer class="footer" {{ with .Site.Params.palette.footer_color }}style="background-color: {{ . }};"{{ end }}>
 				{{ partial "footer" . }}
 			</footer>
 		</div>
