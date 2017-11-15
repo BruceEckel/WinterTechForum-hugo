@@ -54,7 +54,7 @@ weight: 60
 ## Flying into Gunnison
 -   This is often the fastest, and most expensive, option.
 -   Alpine Express takes you from the Gunnison airport to Crested Butte.
--   Because of weather, the Gunnison flight can be unreliable.
+-   Because of weather, the Gunnison flight can be unreliable, especially in Winter.
 -   [Airline tips](https://sites.google.com/site/javaposseroundup/airline-tips)
 
 
