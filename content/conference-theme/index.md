@@ -13,13 +13,12 @@ Should Your Company Change Languages?
     and a different language might be more appropriate -- even if it means moving
     from a language like Scala "back to" Java, as Twitter did.
 -   New languages promise modern features, greater productivity, and fewer problems.
--   Kotlin
--   Go
--   Elm
--   ... and more
+-   Kotlin, Go, Elm, Pony, Rust, and others.
 -   How do you evaluate the benefits vs. the costs (and hidden costs)
     of making the change?
 -   What strategies work best for introducing the new language?
+-   These sessions are a great way to get insights
+    from people who have been in the trenches of such transitions.
 -   Has your new VP heard of one of these languages on the golf course
     and decided, without talking to anyone technical, that this is
     how he's going to make his impact?
