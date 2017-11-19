@@ -79,7 +79,7 @@ Wednesday: Hackathon day
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
-- **8pm** Hackathon Showcase Lightning Talks \
+- **8pm** Hackathon Showcase Lightning Talks at the Parish Hall \
 **Followed by:** Pub discussions
 
 ***********************************
@@ -123,7 +123,7 @@ Friday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Ski/Snowshoe to catered Yurt dinner
+- **Evening** Ski/Snowshoe to catered Yurt dinner (full moon!)
 
 ***********************************
 
