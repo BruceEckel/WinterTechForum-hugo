@@ -7,10 +7,7 @@ Crested Butte is a small resort town located at about 9000 feet, near
 the continental divide. It is known for its skiing in the winter and
 hiking and mountain biking in the summer.
 
--   [Photos
-    1](http://mindview.net/Seminars/Locations/CrestedButte/MoreCrestedButtePhotos.html)
--   [Photos
-    2](http://picasaweb.google.com/arnuff/DynamicWebFrameworks_June2007)
+-   [Photos](http://mindview.net/Seminars/Locations/CrestedButte/MoreCrestedButtePhotos.html)
 
 We hold the event in town, and free buses run up to the ski mountain
 every 15 minutes.
@@ -19,8 +16,8 @@ every 15 minutes.
 well-maintained reference to hotels and restaurants in downtown Crested
 Butte (where we hold the event -- note that you should try to stay
 downtown and not on the mountain, so you can just walk everywhere). Note
-that site only lists hotel-style lodging; there is also a [very nice
-hostel](http://www.cbhostel.com/), and numerous AirB&B's and VRBO-style
+that site only lists hotel-style lodging; there is also a [nice
+hostel](http://www.crestedbuttelodging.com/lodging/crested-butte-intl-lodge-hostel/), and numerous AirB&B's and VRBO-style
 spaces available.
 
 High-speed Internet is available in the conference location and at

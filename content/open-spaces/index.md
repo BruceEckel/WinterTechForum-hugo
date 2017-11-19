@@ -17,11 +17,9 @@ to be discussed. There is no preplanned list of topics, only time slots
 and a space in the main meeting room where interested participants
 propose topics and pick time slots.
 
-> [View a brief screencast about Open Spaces](http://media.libsyn.com/media/dickwall/Open SpacesIntro.mov)
+> [View a brief screencast about Open Spaces](https://youtu.be/aD3S0wlbek0)
 
-(Open Spaces conferences have also been called "Unconferences." Here's a
-[Business Week
-Article](http://www.businessweek.com/magazine/content/07_20/b4034080.htm)).
+Open Spaces conferences have also been called *Unconferences*.
 
 Open Spaces have been used for conferences and as a facilitation technique
 for company meetings, community organizations, and other groups that
@@ -95,71 +93,84 @@ To Lead an Open Spaces Discussion
     *You don't need to develop these before the conference; most of the ideas will
     come to you during the event*.
 
--   Fill out a Post-It for your topic. Put your name on it so people know who to talk to about it.
+-   Fill out a Post-It for your topic. Put your name on it so people know who to
+    talk to about it.
 
 -   Place the topic on the schedule.
 
--   If you see topics that have something in common, consider combining
-    them into a single time slot by talking to the convener of the other topic(s).
+-   If you see topics that have something in common, consider combining them
+    into a single time slot by talking to the convener of the other topic(s).
 
 -   If a significant number of people want to attend both your discussion and
-    another discussion in the same time slot, try to trade into another
-    time slot to ensure maximum dialog and participation.
+    another discussion in the same time slot, try to trade into another time
+    slot to ensure maximum dialog and participation.
 
 To Attend an Open Spaces Discussion
 -----------------------------------
 
--   Check the schedule and just show up. It's OK to drop in once the discussion starts.
+-   Check the schedule and just show up. It's OK to drop in once the discussion
+    starts.
+
 -   Use the **Law of two feet** if the session isn't doing it for you.
+
 -   Allow the discussion convener to steer the topic.\
-    *If you have a different
-    perspective that needs a full time slot you should feel free to add your
-    own Open Space slot to discuss the topic.*
+    *If you have a different perspective that needs a full time slot,
+    feel free to add your own Open Space slot to discuss the topic.*
 
 Invert Your Participation Mode
 ------------------------------
 
-Open Spaces are about participation. Your natural mode might be to
-participate, or it might be to sit back and listen. Regardless of your natural
-mode, you will benefit hugely if you make an effort to invert it.
+Open Spaces are about participation. Your natural mode might be to participate,
+or it might be to sit back and listen. Regardless of your natural mode, you
+will benefit hugely if you make an effort to invert it.
 
 ### If You Naturally Participate
 
-As someone who often presents to groups, I find it easy to slip into
-lecturing mode. I resist this impulse, because that's not what
-Open Spaces are about. General things to remember:
+As someone who often presents to groups, I find it easy to slip into lecturing
+mode. I resist this impulse, because that's not what Open Spaces are about.
+General things to remember:
 
--   This is a discussion, and you learn more in an Open Space from
-    listening than by talking.
+-   This is a discussion, and you learn more in an Open Space from listening
+    than by talking.
+
 -   If you're used to lecturing, pretend you're in the audience.
+
 -   Let go and let it happen. It will.
+
 -   Try not to control the conversation (if you're the convener of the session,
     "steering" is OK).
--   When you *do* talk, know your audience and don't talk down to them.
-    If people need clarification, they will ask for it.
+
+-   When you *do* talk, know your audience and don't talk down to them. If
+    people need clarification, they will ask for it.
+
 -   Just say it; try not to use the entertaining embellishments (like those you
-    might for public speaking). The other participants are smart enough to get it unadorned.
--   If you find yourself writing notes or flipcharts beforehand, step
-    back and take a breath. You're probably preparing a lecture. You'll learn
-    that it's far more interesting to let the conversation unfold on its own.
--   If you absolutely must give an introduction, make it no longer than
-    5 minutes, and note it on the session announcement so that people
-    can choose not to come until the discussion starts. If it's longer
-    than 5 minutes, this probably isn't the right forum.
+    might for public speaking). The other participants are smart enough to get
+    it unadorned.
+
+-   If you find yourself writing notes or flipcharts beforehand, step back and
+    take a breath. You're probably preparing a lecture. You'll learn that it's
+    far more interesting to let the conversation unfold on its own.
+
+-   If you absolutely must give an introduction, make it no longer than 5
+    minutes, and note it on the session announcement so that people can choose
+    not to come until the discussion starts. If it's longer than 5 minutes,
+    this probably isn't the right forum.
 
 If you're in a session and a lecturer needs help stopping, raise your hand and
 say "I'd like to hear what everyone else has to say about this."
 
 ### If You Naturally Sit Back and Listen
 
--   Try to participate, even if you think you don't have anything to contribute.
-    People are often surprised to discover they know something that others want
-    to understand.
--   Ask questions if someone talks about a topic you don't understand. This conference
-    is about information sharing. People are not intentionally trying to be obtuse
-    if they use an acronym or talk about a topic as if everyone knows it. Not only
-    will you learn the most if you say "I don't know what that is," you'll often
-    find that others don't know either and will appreciate you asking the question.
-    The person who brought up the topic will be glad to explain it — we're not in
-    a hurry to get through some arbitrary amount of information.
+-   Try to participate, even if you think you don't have anything to
+    contribute. People are often surprised to discover they know something that
+    others want to understand.
+
+-   Ask questions if someone talks about a topic you don't understand. This
+    conference is about information sharing. People are not intentionally
+    trying to be obtuse if they use an acronym or talk about a topic as if
+    everyone knows it. Not only will you learn the most if you say "I don't
+    know what that is," you'll often find that others don't know either and
+    will appreciate you asking the question. The person who brought up the
+    topic will be glad to explain it — we're not in a hurry to get through some
+    arbitrary amount of information.
 
