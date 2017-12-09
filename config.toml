@@ -76,6 +76,11 @@ googleAnalytics = ""
 	weight = 47
 
 [[menu.main]]
+	name   = "Code of Conduct"
+	url    = "https://github.com/WinterTechForum/wtf-code-of-conduct/blob/master/README.md"
+	weight = 48
+
+[[menu.main]]
 	name   = "Location"
 	url    = "location/"
 	weight = 50
