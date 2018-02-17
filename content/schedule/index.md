@@ -25,6 +25,16 @@ the corner, and you'll see a little white cargo trailer in front. I usually
 have colorful lights on, as well.
 
 ***********************************
+## Parish Hall Blackout Times
+
+- Tuesday 5:15pm - 7pm (everything).
+
+- Wednesday 1:30pm-3:00pm (downstairs only; rest available).
+
+- Wednesday 4:30-7:15pm (everything).
+
+
+***********************************
 
 Monday
 ------
@@ -43,8 +53,9 @@ Session 1
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
-- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall\
-**Followed by:** Pub discussions
+- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall
+
+- **Followed by:** Montanya's Distillery on Elk Ave
 
 ***********************************
 
@@ -67,8 +78,9 @@ Tuesday
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
-- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall\
-**Followed by:** Pub discussions
+- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall
+
+- **Followed by:** The Princess Wine Bar on Elk Avenue
 
 ***********************************
 
@@ -79,8 +91,9 @@ Wednesday: Hackathon day
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
-- **8pm** Hackathon Showcase Lightning Talks at the Parish Hall \
-**Followed by:** Pub discussions
+- **8pm** Hackathon Showcase Lightning Talks at the Parish Hall
+
+- **Followed by:** The Dogwood Cocktail Cabin, on third street 1/2 block north of Elk Ave.
 
 ***********************************
 
@@ -101,8 +114,9 @@ Thursday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Progressive Dinner at Rental Houses\
-**Followed by:** Event TBA
+- **Evening** Progressive Dinner at Rental Houses
+
+- **Followed by:** Karaoke at The Red Room (underneath The Secret Stash Pizza on Elk Avenue)
 
 ***********************************
 
@@ -127,8 +141,11 @@ Friday
 
 ***********************************
 
-Saturday Morning
-----------------
+Saturday Morning Potluck Breakfast at Bruce's house
+---------------------------------------------------
 
-- **Potluck Breakfast at Bruce's house**\
-  Airport shuttles & group drivers can pick you up there.
+- If you're staying in a house, bring your extra food.
+
+- If you don't have extra food, don't buy more. We always have lots.
+
+- Airport shuttles & group drivers can pick you up there (tell them 107 White Rock).
