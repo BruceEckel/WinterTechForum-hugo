@@ -3,7 +3,8 @@ import sys
 import os
 import shutil
 
-target = Path.cwd().parent / "WinterTechForum.github.io"
+root_name = Path().cwd().stem.split("-")[0]
+target = Path.cwd().parent / f"{root_name}.github.io"
 
 def unknown(item):
     print("UNKNOWN ITEM: {}".format(item))
