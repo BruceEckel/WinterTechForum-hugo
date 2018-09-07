@@ -26,17 +26,4 @@ address.
 Step 2:
 -------
 
-<p style="font-size:20px">
-<form action="https://ti.to/mindview/winter-tech-forum-2018"
-      method="get" target="_blank">
-    <input type="submit" value="Registration Payment"
-         name="Submit" id="frm1_submit"
-         style="background:#1A4C7D;
-                color: white;
-                cursor:pointer;
-                font-size:20px;
-                padding: 14px 40px;
-                border-radius: 12px;"
-    />
-</form>
-</p>
+You will receive a Google Payment request for the conference fee. Payment completes your registration.

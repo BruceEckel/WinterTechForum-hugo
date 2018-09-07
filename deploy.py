@@ -30,7 +30,7 @@ for src in (Path.cwd() / "public").iterdir():
     else:
         unknown(src)
 
-CNAME = Path.cwd() / "CNAME"
-if CNAME.exists():
-    print("copying CNAME")
-    shutil.copy(CNAME, target)
+# CNAME = Path.cwd() / "CNAME"
+# if CNAME.exists():
+#     print("copying CNAME")
+#     shutil.copy(CNAME, target)
