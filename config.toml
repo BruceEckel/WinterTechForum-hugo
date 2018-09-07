@@ -25,13 +25,13 @@ googleAnalytics = ""
 	# Syntax highlighting theme
 	highlight_css  = ""
 
-	[params.palette]
-    	primary = "indigo"
-    	accent  = "red"
+  [params.palette]
+  	primary = "indigo"
+  	accent  = "red"
 
-    [params.font]
-    	text = "Ubuntu"
-    	code = "Ubuntu Mono"
+  [params.font]
+  	text = "Ubuntu"
+  	code = "Ubuntu Mono"
 
 
 [social]
@@ -41,7 +41,7 @@ googleAnalytics = ""
 
 [[menu.main]]
 	name   = "Overview"
-	url    = "/"
+	url    = "overview/"
 	weight = 10
 
 [[menu.main]]
