@@ -1,5 +1,5 @@
 # Redirect default Netlify subdomain to primary domain
-http://agitated-jennings-d9b082.netlify.com/* http://www.wintertechforum.com/:splat 301!
+
 [[redirects]]
   from = "http://agitated-jennings-d9b082.netlify.com/*"
   to = "http://www.wintertechforum.com/:splat"
