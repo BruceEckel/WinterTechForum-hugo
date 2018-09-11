@@ -26,4 +26,6 @@ address.
 Step 2:
 -------
 
+** (Registration form not yet available)**
+
 You will receive a Google Payment request for the conference fee. Payment completes your registration.
