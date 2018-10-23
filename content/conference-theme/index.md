@@ -18,5 +18,7 @@ open-source landscape?
 -   Starting projects: can we apply some of the lessons learned in the startup
     world to get projects started and move them forward faster?
 -   Should we find ways to build teams, rather than relying on the lone-programmer approach?
+-   How to incorporate open source software into your enterprise cost effectively and still give back.
+-   How everyone can benefit from open sourcing enterprise software.
 -   Plus anything else anyone wants to talk about, of course.
 -   And our business track.
