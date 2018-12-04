@@ -17,6 +17,14 @@ request</a>. Don't let the fee be the reason you can't attend.
 
 ***
 
+**Developer Retreat**: This year there will a multi-day post-conference
+Developer Retreat, held at [Evolve Coworking](https://www.evolvework.co/).
+Registration for the conference includes the developer retreat. There is no
+theme; you work on your projects of interest and we discuss them during breaks
+and meals.
+
+***
+
 - *I wanted to let you know how much I thoroughly enjoyed the week I spent in Crested Butte for the WTF conference. Thanks for helping to organize such a wonderful conference and bringing together such a great group of people. It was exciting to see how a group left unto themselves, can self organise and set out on a meaningful course. This spirit of the event really resonated with me and I'm looking forward to continuing this journey thoughout the year.* -- Will Mooney
 
 - *The WTF took me to places I never imagined I would go; intellectually, emotionally, career-wise, and geographically. The power of this tiny thing is immeasurable.* -- Andrew Harmel-Law, Tech Principal at ThoughtWorks

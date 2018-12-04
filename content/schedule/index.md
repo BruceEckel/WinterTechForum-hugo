@@ -8,8 +8,13 @@ are around and available, we might be able to come out for meals or other
 activities.
 
 **Post-conference**: Often people stay the day after the conference or for the
-weekend; informal gatherings have been known to happen. Sometimes there is
-a post-conference [Developer Retreat](http://developer-retreat.com).
+weekend; informal gatherings have been known to happen.
+
+**Developer Retreat**: This year there will a multi-day post-conference
+Developer Retreat, held at [Evolve Coworking](https://www.evolvework.co/).
+Registration for the conference includes the developer retreat. There is no
+theme; you work on your projects of interest and we discuss them during breaks
+and meals.
 
 ***********************************
 
