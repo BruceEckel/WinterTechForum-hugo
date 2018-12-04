@@ -53,7 +53,7 @@ Session 1
 
 - **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall
 
-- **Followed by:** Montanya's Distillery on Elk Ave
+- **Followed by:** Games and hanging out at rental houses
 
 ***********************************
 
@@ -78,7 +78,7 @@ Tuesday
 
 - **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall
 
-- **Followed by:** The Princess Wine Bar on Elk Avenue
+- **Followed by:** Games and hanging out at rental houses
 
 ***********************************
 
@@ -91,7 +91,7 @@ Wednesday: Hackathon day
 
 - **8pm** Hackathon Showcase Lightning Talks at the Parish Hall
 
-- **Followed by:** The Dogwood Cocktail Cabin, on third street 1/2 block north of Elk Ave.
+- **Followed by:** Games and hanging out at rental houses
 
 ***********************************
 
