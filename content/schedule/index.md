@@ -90,6 +90,9 @@ Tuesday
 Wednesday: Hackathon day
 ------------------------
 
+**The Parish Hall is unavailable during the day, until 8pm. Hackathon projects
+take place in rental houses, at Bruce's house, or at [Evolve Coworking](https://www.evolvework.co/)**
+
 [Hackathon Day Details]({{< relref "hackathon/index.md" >}})
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
