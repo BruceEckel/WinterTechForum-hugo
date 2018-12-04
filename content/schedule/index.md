@@ -90,7 +90,7 @@ Tuesday
 Wednesday: Hackathon day
 ------------------------
 
-[Details]({{< relref "hackathon/index.md" >}})
+[Hackathon Day Details]({{< relref "hackathon/index.md" >}})
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
