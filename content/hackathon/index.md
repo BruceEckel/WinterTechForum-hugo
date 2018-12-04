@@ -9,9 +9,11 @@ prototypes. Past hackathons have ranged from hardware projects to the
 exploration of new languages, and some have focused on a particular product or
 technology.
 
-All you need is a group that wants to explore a topic. You'll probably start forming
-groups on Monday and Tuesday, as you discover other people's interests.
+All you need is a group that wants to explore a topic. You'll probably start
+forming groups on Monday and Tuesday, as you discover other people's interests.
 
-Hackathons take place in either the conference venue or the various houses
-that are rented by groups in town. The evening of the hackathon, results are
-presented in the *Hackathon Showcase Lightning Talks*.
+The Parish Hall is unavailable during the day, until 8pm. Hackathon projects
+take place in rental houses, at Bruce's house, or at [Evolve
+Coworking](https://www.evolvework.co/) The evening of the hackathon, results
+are presented in the *Hackathon Showcase Lightning Talks* at 8pm at the Parish
+Hall.
