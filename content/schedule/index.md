@@ -29,10 +29,8 @@ have colorful lights on, as well.
 
 - Tuesday 5:15pm - 7pm (everything).
 
-- Wednesday 1:30pm-3:00pm (downstairs only; rest available).
-
-- Wednesday 4:30-7:15pm (everything).
-
+- Wednesday we only have the Parish Hall from 8pm for the Hackathon day presentations;
+  the rest of the day it is unavailable.
 
 ***********************************
 
