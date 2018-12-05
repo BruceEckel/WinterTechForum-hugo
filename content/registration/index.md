@@ -3,6 +3,9 @@ title: Registration
 weight: 90
 ---
 
+*Price includes the multi-day developer retreat that occurs directly
+after the conference, at [Evolve Coworking](https://www.evolvework.co/).*
+
 *Price does not include skiing, which is optional. For beginners, ski
 instruction can be arranged. There is also cross-country skiing
 (cheaper), snowshoeing, and snowmobiling.*
