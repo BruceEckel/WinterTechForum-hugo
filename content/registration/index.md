@@ -28,7 +28,7 @@ address.
 Step 2:
 -------
 
-Join the Winter Tech Forum Slack channel (instructions in the welcome message for the conference newsgroup).
+Join the Winter Tech Forum Slack channel (instructions are in the welcome message for the conference newsgroup).
 
 You can post questions to the Slack channel, arrange ride sharing, group house
 rentals, etc.
