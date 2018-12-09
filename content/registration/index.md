@@ -36,6 +36,7 @@ rentals, etc.
 Step 3:
 -------
 
+You (or the designated payer) will receive a Google Payment request for the conference fee. Payment completes your registration.
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfkb3u0h3RfRRRyTmiMh0wSK1RvhABYZX4gtEgFutzhffvf1A/viewform?embedded=true" width="640" height="808" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
-You (or the designated payer) receive a Google Payment request for the conference fee. Payment completes your registration.
