@@ -15,15 +15,11 @@ Step 1:
 
 Request to join the [Conference
 Newsgroup](http://groups.google.com/group/JavaPosseRoundup) (called "Java Posse
-Roundup" for historical reasons).
-
-General announcements are made through the newsgroup.
+Roundup" for historical reasons). General announcements are made through the newsgroup.
 
 Make sure you use the email address where you would like to receive information
 about the conference. That is, use the attendee's address and not an admin's
-address.
-
-**NOTE:** This address will not be used for anything except the conference.
+address. **This address will not be used for anything except the conference.**
 
 Step 2:
 -------
