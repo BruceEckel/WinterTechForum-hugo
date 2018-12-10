@@ -28,7 +28,7 @@ address.
 Step 2:
 -------
 
-Join the Winter Tech Forum Slack channel (instructions are in the welcome message for the conference newsgroup).
+Join the [Winter Tech Forum Slack channel](https://join.slack.com/t/wtfconf/shared_invite/enQtNDk5MjUyMTc4MjkxLTQzMGU5NDQ2MWViNDM5OTZlNzhkNWY2NTI0MGI4NDQyMzMxMmFjN2FmNzE0YjdiOWVhYjAzNTY1MGU3YjZiYTg)
 
 You can post questions to the Slack channel, arrange ride sharing, group house
 rentals, etc.
