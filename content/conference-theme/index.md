@@ -20,6 +20,7 @@ open-source landscape?
 -   Should we find ways to build teams, rather than relying on the lone-programmer approach?
 -   How to incorporate open source software into your enterprise cost-effectively and still give back.
 -   Open standards as a competitive advantage.
+-   Web compatibility and 3rd party application interoperability.
 -   How everyone can benefit from open sourcing enterprise software.
 -   Plus anything else anyone wants to talk about, of course.
 -   And our business track.
