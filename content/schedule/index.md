@@ -32,10 +32,14 @@ have colorful lights on, as well.
 ***********************************
 ## Parish Hall Blackout Times
 
-- Tuesday 5:15pm - 7pm (everything).
-
 - Wednesday we only have the Parish Hall from 8pm for the Hackathon day presentations;
   the rest of the day it is unavailable.
+
+- Tuesday 4:30pm - 6pm
+
+- Thursday 6pm-7:30pm
+
+- Friday 7:30am-9am
 
 ***********************************
 
