@@ -47,6 +47,10 @@ weight: 60
 1.  For your return trip, reverse the order of the above. Note that if you buy a
     round-trip ticket from Alpine Express the total cost is a bit cheaper.
 
+1.  When returning, try to arrange it so your light rail train arrives at the airport
+    at least 90 minutes before your flight leaves. If you do so, you can check your
+    baggage at a special desk at the light rail station.
+
 
 ## The Cheapest Way (With Others)
 -   Denver is a hub for Southwest Airlines and Frontier Airlines, so you can usually
