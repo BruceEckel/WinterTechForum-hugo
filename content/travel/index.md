@@ -12,12 +12,12 @@ weight: 60
 
 1.  From baggage claim, follow the signs to the transit center. The signs will take
     you down escalators. At the bottom of the escalators, there are machines to
-    purchase a one way 9$ ticket which will take you to Union station. You can
+    purchase a one way $10.50 ticket which will take you to Union station. You can
     skip the line by downloading the app from [the light rail site](http://www.rtd-denver.com/).
 
 1.  Take the [Light Rail from Denver Airport to Union
     Station](https://www.denver.org/about-denver/transportation/airport-rail/)
-    ($9). **NOTE**: Remain at Union Station -- the Gunnison bus departs from a lower
+    ($10.50). **NOTE**: Remain at Union Station -- the Gunnison bus departs from a lower
     level from where the light rail lets off. You don't need to leave Union
     Station.
 
