@@ -5,7 +5,10 @@ weight: 10
 ---
 
 Organized by Bruce Eckel<br/>
-<span style="font-size:150%">March 18 -22, 2019</span>
+<span style="font-size:150%">March 18 - 22, 2019</span><br>
+When scheduling, please
+[note that there are events]({{< relref "schedule/index.md" >}}
+the afternoon of the 17th and the morning of the 23rd.
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
 ### [Registration]({{< relref "registration/index.md" >}})
