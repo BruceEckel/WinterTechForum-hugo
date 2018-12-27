@@ -19,10 +19,9 @@ Organized by Bruce Eckel<br/>
 break on the fee, <a href="https://wintertechforum.com/contact/">make a
 request</a>. Don't let the fee be the reason you can't attend.
 
-<span style="align:center">
-## [Registration]({{< relref "registration/index.md" >}})
-<br>
-</span>
+<div style="text-align:center;font-size:175%;font-weight:bold">
+<a href = "registration">Registration</a>
+</div>
 
 ***
 
