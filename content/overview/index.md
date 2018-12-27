@@ -8,9 +8,8 @@ Organized by Bruce Eckel<br/>
 <span style="font-size:150%">March 18 - 22, 2019</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
-## [Registration]({{< relref "registration/index.md" >}})
-
 - Attendance limited to 45
+
 - Price: $750
 
 - When scheduling, please [note that there are events]({{< relref
@@ -19,6 +18,8 @@ Organized by Bruce Eckel<br/>
 - If you've previously attended any of the Crested Butte events and need a
 break on the fee, <a href="https://wintertechforum.com/contact/">make a
 request</a>. Don't let the fee be the reason you can't attend.
+
+## [Registration]({{< relref "registration/index.md" >}})
 
 ***
 
