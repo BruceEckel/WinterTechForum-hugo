@@ -6,18 +6,18 @@ weight: 10
 
 Organized by Bruce Eckel<br/>
 <span style="font-size:150%">March 18 - 22, 2019</span><br>
-When scheduling, please
-[note that there are events]({{< relref "schedule/index.md" >}}
-the afternoon of the 17th and the morning of the 23rd.
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
 ### [Registration]({{< relref "registration/index.md" >}})
 
 - Attendance limited to 45
 - Price: $750
-- If you've previously attended any of the Crested
-Butte events and need a break on the fee,
-<a href="https://wintertechforum.com/contact/">make a
+
+- When scheduling, please [note that there are events]({{< relref
+"schedule/index.md" >}}) the afternoon of the 17th and the morning of the 23rd.
+
+- If you've previously attended any of the Crested Butte events and need a
+break on the fee, <a href="https://wintertechforum.com/contact/">make a
 request</a>. Don't let the fee be the reason you can't attend.
 
 ***
