@@ -20,6 +20,7 @@ break on the fee, <a href="https://wintertechforum.com/contact/">make a
 request</a>. Don't let the fee be the reason you can't attend.
 
 ## [Registration]({{< relref "registration/index.md" >}})
+<br>
 
 ***
 
