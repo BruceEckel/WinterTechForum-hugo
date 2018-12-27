@@ -8,7 +8,7 @@ Organized by Bruce Eckel<br/>
 <span style="font-size:150%">March 18 - 22, 2019</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
-### [Registration]({{< relref "registration/index.md" >}})
+## [Registration]({{< relref "registration/index.md" >}})
 
 - Attendance limited to 45
 - Price: $750
