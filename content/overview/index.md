@@ -20,7 +20,7 @@ break on the fee, <a href="https://wintertechforum.com/contact/">make a
 request</a>. Don't let the fee be the reason you can't attend.
 
 <div style="text-align:center;font-size:175%;font-weight:bold">
-<a href = "registration">Registration</a>
+<a href = "/registration">Registration</a>
 </div>
 
 ***
