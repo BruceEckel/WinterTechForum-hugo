@@ -36,8 +36,8 @@ Crested Butte health food store and sometimes even the grocery store, but
 bring your own to be sure). That brings a lot of relief. I've recently
 discovered that A&D ointment works wonders (with or without a neti pot) if you
 regularly apply it to the inside of your nose using your little finger. This
-seems to prevent most of the problems.
-
+seems to prevent most of the problems.\
+\
 When travelling, a more convenient system is the NeilMed Sinus Rinse, which
 has a soft squeeze bottle (doesn't break in your luggage like a neti pot might)
 and pre-measured packets. These are often available at drugstores; here's a
