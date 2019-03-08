@@ -3,9 +3,11 @@ title: Health
 weight: 80
 ---
 
+<p style="font-size:medium;">
 The local urgent-care clinic is in Mount Crested Butte, open every day from
 9 am to 5 pm. [This Link](https://www.gunnisonvalleyhealth.org/Our-Services/Mountain-Clinic.aspx)
-includes their phone number and a map.
+includes their phone number and a map. They accept most insurance.
+</p>
 
 ## Altitude
 
@@ -35,6 +37,11 @@ discovered that A&D ointment works wonders (with or without a neti pot) if you
 regularly apply it to the inside of your nose using your little finger. This
 seems to prevent most of the problems.
 
+When travelling, a more convenient system is the NeilMed Sinus Rinse, which
+has a soft squeeze bottle (doesn't break in your luggage like a neti pot might)
+and pre-measured packets. These are often available at drugstores; here's a
+[link to Amazon](https://smile.amazon.com/dp/B004N13VY4/ref=cm_sw_em_r_mt_dp_U_2ESGCb5KHV8N9).
+
 5. Ibuprofen/Advil. I can't point you to them but apparently recent studies
 have shown Ibuprofen to be quite effective when taken at the first indications
 of an altitude headache. This agrees with my own experience. We will have a
@@ -45,4 +52,6 @@ water regimen) you can head it off.
 
 6. If you're in distress, there are hyperbaric chambers at the *Sea Level
 Spa*, 308 Elk Avenue (the main street). Open 10 a.m. - 8 p.m. If you're really
-feeling the altitude, don't wait!
+feeling the altitude, don't wait! Also, the urgent care clinic (at the top of
+this page) is only three miles away, so if you think you might need that, go
+see them sooner rather than later.
