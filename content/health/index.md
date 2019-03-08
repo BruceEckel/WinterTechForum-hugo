@@ -1,7 +1,13 @@
 ---
-title: Altitude
+title: Health
 weight: 80
 ---
+
+The local urgent-care clinic is in Mount Crested Butte, open every day from
+9 am to 5 pm. [This Link](https://www.gunnisonvalleyhealth.org/Our-Services/Mountain-Clinic.aspx)
+includes their phone number and a map.
+
+## Altitude
 
 We are at 9,000 feet in Crested Butte so you will feel the altitude. Tips for preventing altitude-hurt:
 

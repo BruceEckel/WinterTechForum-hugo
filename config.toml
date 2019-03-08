@@ -100,8 +100,8 @@ googleAnalytics = ""
 	weight = 70
 
 [[menu.main]]
-	name   = "Altitude"
-	url    = "altitude/"
+	name   = "Health"
+	url    = "health/"
 	weight = 80
 
 [[menu.main]]
