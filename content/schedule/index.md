@@ -158,7 +158,7 @@ Friday
 
 - **11:10-11:40** Break
 
-- **11:40-12:30** Session Closing Session
+- **11:40-12:30** Closing Session
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
