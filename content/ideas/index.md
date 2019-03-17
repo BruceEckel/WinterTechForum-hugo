@@ -42,5 +42,4 @@ weight: 170
 - New people: do you perceive an in group, does it look hard to become part?
 - Continue posting on slack. Please publish session notes there or on the newsgroup for folks who couldn't go or be here.
 - Thoughts, ideas for new features, how we can bring more people
-- Badge hanger so people don't worry about forgetting badges
 

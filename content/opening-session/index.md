@@ -19,3 +19,4 @@ weight: 160
 - It's OK to try any experiment via post it. Like a Kickstarter. Like Julie's request for help on python.
 - Eyes forward conference presentation is about the happy path. We talk about problems and challenges
 - Record lightning talks
+- Badge hanger so people don't worry about forgetting badges
