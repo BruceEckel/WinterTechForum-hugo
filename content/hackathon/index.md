@@ -14,7 +14,7 @@ forming groups on Monday and Tuesday, as you discover other people's interests.
 
 The Parish Hall is unavailable during the day, until 8pm. Hackathon projects
 take place in rental houses, at Bruce's house, or at [Evolve
-Coworking](https://www.evolvework.co/)
+Coworking](https://www.evolvework.co/).
 
 The evening of the hackathon, results are presented in the *Hackathon Showcase
 Lightning Talks* at 8pm at the Parish Hall.
