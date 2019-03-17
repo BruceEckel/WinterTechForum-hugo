@@ -67,7 +67,7 @@ Session 1
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
-- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall
+- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall (Public welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -94,7 +94,7 @@ Tuesday
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
-- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall
+- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall (Public welcome)
 
 - Form groups for Hackathon day
 
@@ -112,7 +112,7 @@ take place in rental houses, at Bruce's house, or at [Evolve Coworking](https://
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
-- **8pm** Hackathon Showcase Lightning Talks at the Parish Hall
+- **8pm** Hackathon Showcase Lightning Talks at the Parish Hall (Public welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -138,6 +138,8 @@ Thursday
 - 3-5pm Kotlin III (Bruce's House)
 
 - **Evening** Progressive Dinner at Rental Houses
+
+- (Possibly) "Greased" lightning talks
 
 - **Followed by:** 10:30pm Karaoke at The Red Room (underneath The Secret Stash Pizza on Elk Avenue)
 
