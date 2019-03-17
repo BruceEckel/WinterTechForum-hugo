@@ -1,6 +1,6 @@
 ---
 title: Lodging
-weight: 70
+weight: 120
 ---
 
 ### Group Houses

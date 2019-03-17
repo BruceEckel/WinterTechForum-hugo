@@ -1,6 +1,6 @@
 ---
 title: Venue
-weight: 55
+weight: 100
 ---
 
 The conference is held at the **Parish Hall** of the Queen of All Saints

@@ -1,6 +1,6 @@
 ---
 title: Travel
-weight: 60
+weight: 110
 ---
 
 ## The Cheapest Way (On Your Own)

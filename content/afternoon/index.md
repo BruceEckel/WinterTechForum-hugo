@@ -1,6 +1,6 @@
 ---
 title: Afternoon Activities
-weight: 47
+weight: 70
 ---
 
 During conference days (Monday, Tuesday, Thursday and Friday), the afternoons

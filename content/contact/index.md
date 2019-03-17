@@ -1,6 +1,6 @@
 ---
 title: Contact
-weight: 100
+weight: 150
 ---
 
 Questions? Email Mindview LLC <mindviewinc@gmail.com>

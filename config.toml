@@ -62,57 +62,67 @@ googleAnalytics = ""
 [[menu.main]]
 	name   = "Lightning Talks"
 	url    = "lightning/"
-	weight = 42
+	weight = 50
 
 [[menu.main]]
 	name   = "Hackathon"
 	url    = "hackathon/"
-	weight = 43
+	weight = 60
 
 [[menu.main]]
 	name   = "Afternoon Activities"
 	url    = "afternoon/"
-	weight = 47
+	weight = 70
 
 [[menu.main]]
 	name   = "Code of Conduct"
 	url    = "https://github.com/WinterTechForum/wtf-code-of-conduct/blob/master/README.md"
-	weight = 48
+	weight = 80
 
 [[menu.main]]
 	name   = "Location"
 	url    = "location/"
-	weight = 50
+	weight = 90
 
 [[menu.main]]
 	name   = "Venue"
 	url    = "venue/"
-	weight = 55
+	weight = 100
 
 [[menu.main]]
 	name   = "Travel"
 	url    = "travel/"
-	weight = 60
+	weight = 110
 
 [[menu.main]]
 	name   = "Lodging"
 	url    = "lodging/"
-	weight = 70
+	weight = 120
 
 [[menu.main]]
 	name   = "Health"
 	url    = "health/"
-	weight = 80
+	weight = 130
 
 [[menu.main]]
 	name   = "Registration"
 	url    = "registration/"
-	weight = 90
+	weight = 140
 
 [[menu.main]]
 	name   = "Contact"
 	url    = "contact/"
-	weight = 100
+	weight = 150
+
+[[menu.main]]
+	name   = "Opening"
+	url    = "opening-session/"
+	weight = 160
+
+[[menu.main]]
+	name   = "Ideas"
+	url    = "ideas/"
+	weight = 170
 
 
 [blackfriday]

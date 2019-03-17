@@ -1,6 +1,6 @@
 ---
 title: Registration
-weight: 90
+weight: 140
 ---
 
 *Price includes the multi-day developer retreat that occurs directly

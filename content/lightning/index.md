@@ -1,6 +1,6 @@
 ---
 title: Lightning Talks
-weight: 42
+weight: 50
 ---
 
 Lightning talks are informal five-minute presentations about something that

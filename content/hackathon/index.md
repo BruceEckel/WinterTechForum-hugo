@@ -1,6 +1,6 @@
 ---
 title: Hackathon
-weight: 43
+weight: 60
 ---
 
 On Wednesday, we take a break from discussions and run a one-day hackathon.
