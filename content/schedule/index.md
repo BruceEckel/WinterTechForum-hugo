@@ -22,7 +22,8 @@ Sunday 6:00pm
 -------------
 
 Welcome Potluck Barbeque at Bruce's House (107 WhiteRock). Bring something
-to grill, cook, or share.
+to grill, cook, or share. There will be food, so if you're hopeless in the
+kitchen, just bring beer.
 
 Go to the corner of First and WhiteRock, and you'll see a building of four
 townhomes with solar panels on the roof. My unit is the furthest away from
@@ -35,11 +36,15 @@ have colorful lights on, as well.
 - Wednesday we only have the Parish Hall from 8pm for the Hackathon day presentations;
   the rest of the day it is unavailable.
 
-- Tuesday 4:30pm - 6pm
+- Tuesday 4:30pm - 6pm (entire building unavailable)
 
-- Thursday 6pm-7:30pm
+- Wednesday 4pm - 7 pm (entire building unavailable)
 
-- Friday 7:30am-9am
+- Thursday 6pm-7:30pm (downstairs unavailable)
+
+- Friday 7:30am-9am (downstairs unavailable)
+
+- Friday we clean up and vacate by approximately 1:30 pm
 
 ***********************************
 
@@ -57,6 +62,8 @@ Session 1
 - **11:10-12:00** Session 2
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+
+- 4-6pm Kotlin I (Bruce's House)
 
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
@@ -83,9 +90,13 @@ Tuesday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
+- 4-6pm Kotlin II (Bruce's House)
+
 - **Evening** Groups go to dinner or informal barbeque at Bruce's
 
 - **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall
+
+- Form groups for Hackathon day
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -124,9 +135,11 @@ Thursday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
+- 3-5pm Kotlin III (Bruce's House)
+
 - **Evening** Progressive Dinner at Rental Houses
 
-- **Followed by:** Karaoke at The Red Room (underneath The Secret Stash Pizza on Elk Avenue)
+- **Followed by:** 10:30pm Karaoke at The Red Room (underneath The Secret Stash Pizza on Elk Avenue)
 
 ***********************************
 
@@ -146,6 +159,8 @@ Friday
 - **11:40-12:30** Session Closing Session
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+
+- 3-5pm Kotlin IV (Bruce's House)
 
 - **Evening** Ski/Snowshoe to catered Yurt dinner (full moon!)
 
