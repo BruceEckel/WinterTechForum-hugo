@@ -8,6 +8,10 @@ weight: 160
 - Use Slack for everything
   - You can almost always do things with other people if you want
 
+- Code of conduct, contact persons
+
+- Coworking space, wear your badge
+
 - Lightning talks
   - No Tuesday signups until Tuesday morning, new folks have priority
   - We assume it's OK to record lightning talks for Youtube unless you say otherwise
@@ -30,6 +34,7 @@ weight: 160
 - Saturday breakfast
 
 - Afternoon sessions
+  - Skiing
 
 - Open Spaces
   - Post-its, merging similar sessions, moving sessions around
