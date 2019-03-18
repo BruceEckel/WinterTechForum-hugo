@@ -1,9 +1,7 @@
 ---
-title: Ideas
+title: Various Ideas and To-Dos
 weight: 170
 ---
-
-# Various Ideas and To-Dos
 
 - Childcare page
 - Monday topic what's on your mind right now, or as part of the opening session
