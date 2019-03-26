@@ -5,6 +5,7 @@ weight: 170
 
 - Emphasize speaking style and making room for others; creating a safe space. Put at beginning of
 opening session.
+- Session about new people; those who have come before can only ask questions
 - Session on building trust in company products
 - Switching places after courses during the banquet
 - Quiet room w/ beanbag chairs
