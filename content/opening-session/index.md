@@ -23,6 +23,7 @@ weight: 160
 - Lightning talks
   - No Tuesday signups until Tuesday morning, new folks have priority
   - We assume it's OK to record lightning talks for Youtube unless you say otherwise
+  - Potential lightning talks thursday after progressive dinner, before Karaoke
 
 - Hackathon day
   - Tuesday after lightning talks: form groups and decide where to meet
