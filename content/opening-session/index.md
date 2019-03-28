@@ -3,6 +3,14 @@ title: Notes for Opening Session
 weight: 160
 ---
 
+- Open Spaces: creating discussion
+  - Post-its, merging similar sessions, moving sessions around
+  - Law of two feet
+  - Law of two ears and one mouth
+  - Invert your participation mode
+  - It's OK to try any experiment via post it. Like Julie's request for help on python.
+  - Different color post it for nontechnical talks
+
 - Altitude: See the "Health" page. Hyperbaric chamber, urgent care clinic
 
 - Use Slack for everything
@@ -35,13 +43,6 @@ weight: 160
 
 - Afternoon sessions
   - Skiing
-
-- Open Spaces
-  - Post-its, merging similar sessions, moving sessions around
-  - Law of two feet
-  - Law of two ears and one mouth
-  - It's OK to try any experiment via post it. Like Julie's request for help on python.
-  - Different color post it for nontechnical talks
 
 
 ________________________________________
