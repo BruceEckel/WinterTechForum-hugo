@@ -51,4 +51,5 @@ for pausing or turning off the feed). Needs to be something that can be sent out
 - New people: do you perceive an in group, does it look hard to become part?
 - Continue posting on slack. Please publish session notes there or on the newsgroup for folks who couldn't go or be here.
 - Thoughts, ideas for new features, how we can bring more people
+- Ways for remote people to participate
 
