@@ -15,19 +15,36 @@ I'm still coming up the curve on static site generators in general and Hugo in
 particular so if anyone knows more please feel free to make suggestions and/or
 pull requests.
 
-## To Build:
+## Requirements
 
-1.  [Install the Hugo](https://hugodocs.info/getting-started/installing/#quick-install) static site generator.
+- Git
+- [Hugo](https://gohugo.io/getting-started/installing/) `v0.59.0`
+- Python (only for deploy)
 
-2.  Clone this repository into your "git" subdirectory.
+## Setup
 
-3.  From within this repository, run `hugo server` and open your browser at the URL given.
+```bash
+git clone git@github.com:BruceEckel/WinterTechForum-hugo.git
+cd WinterTechForum-hugo
+git clone git@github.com:pavelbinar/hugo-material-banner.git themes/hugo-material-banner
+```
 
-4.  To create the deployable version, run `hugo` from within this repository.
-    You should now see a `public` directory, which contains the deployable file
-    set.
+## Development
 
-5.  To duplicate what happens during an actual deploy, first clone
-    [WinterTechForum.github.io](https://github.com/WinterTechForum/WinterTechForum.github.io)
-    into your "git" subdirectory. Now run `python deploy.py` from within this
-    subdirectory.
+```bash
+hugo server
+```
+
+## Build
+
+```bash
+hugo server
+```
+
+The build output will be in the `public` folder.
+
+# Deploy
+
+```bash
+python deploy.py
+```

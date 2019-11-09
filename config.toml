@@ -1,11 +1,12 @@
 baseurl = "https://www.WinterTechForum.com/"
 languageCode = "en-us"
 title = "Winter Tech Forum: A Self-Organizing Open Spaces Conference in Crested Butte, Colorado March 9-13, 2020"
-theme = "hugo-material-docs"
+theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
 # Enable Google Analytics by entering your tracking id
 googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
 	# General information
