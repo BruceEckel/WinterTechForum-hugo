@@ -13,7 +13,7 @@ Organized by Bruce Eckel<br/>
 - Price: $750
 
 - When scheduling, please [note that there are events]({{< relref
-"schedule/index.md" >}}) the afternoon of the 12th and the morning of the 14th.
+"schedule/index.md" >}}) the afternoon of the 8th and the morning of the 14th.
 
 - If you've previously attended any of the Crested Butte events and need a
 break on the fee, <a href="https://wintertechforum.com/contact/">make a
