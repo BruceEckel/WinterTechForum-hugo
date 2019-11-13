@@ -4,7 +4,7 @@ echo "Delete hugo-material-banner theme"
 rm -fr themes
 
 echo "Download latest hugo-material-banner theme"
-git clone https://github.com/pavelbinar/hugo-material-banner.git themes/hugo-material-banner
+git clone https://github.com/MindviewLLC/hugo-material-banner.git themes/hugo-material-banner
 
 echo "Hugo version"
 hugo version
