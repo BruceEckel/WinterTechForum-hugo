@@ -28,8 +28,6 @@ Join the [Winter Tech Forum Slack channel](https://join.slack.com/t/wtfconf/shar
 You can post questions to the Slack channel, arrange ride sharing, group house
 rentals, etc.
 
-Step 3:
--------
-
-## [Payment](https://link.waveapps.com/k4dw96-xxhjf5)
+Step 3: [Payment](https://link.waveapps.com/k4dw96-xxhjf5)
+----------------------------------------------------------
 
