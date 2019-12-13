@@ -31,5 +31,5 @@ rentals, etc.
 Step 3:
 -------
 
-### [Payment](https://link.waveapps.com/k4dw96-xxhjf5)
+## [Payment](https://link.waveapps.com/k4dw96-xxhjf5)
 
