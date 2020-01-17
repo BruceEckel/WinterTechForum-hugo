@@ -24,7 +24,7 @@ except the conference.**
 Step 2:
 -------
 
-Join the [Winter Tech Forum Slack channel](https://join.slack.com/t/wtfconf/shared_invite/enQtNDk5MjUyMTc4MjkxLTQzMGU5NDQ2MWViNDM5OTZlNzhkNWY2NTI0MGI4NDQyMzMxMmFjN2FmNzE0YjdiOWVhYjAzNTY1MGU3YjZiYTg).
+Join the [Winter Tech Forum Slack channel](https://join.slack.com/t/wtfconf/shared_invite/enQtNDk5MjUyMTc4MjkxLWUzMjkxNDM1MGM3MDU2MDJhYTRlODY5MjljOWNlYmQyMmNkMGRmMzlhMWE1ZmQ4NmIyY2JmODhkNWI0NDIyM2Y).
 You can post questions to the Slack channel, arrange ride sharing, group house
 rentals, etc.
 
