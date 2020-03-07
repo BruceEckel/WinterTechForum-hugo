@@ -12,7 +12,6 @@ weight: 160
     Even if only one person shows up you'll have an experience. If no one shows up,
     you might have scheduled it against something that people really wanted to see,
     it doesn't mean your idea was bad.
-  - Different color post it for nontechnical talks
 
 - Afternoon sessions
   - Skiing
@@ -35,7 +34,7 @@ weight: 160
 - Lightning talks
   - No Tuesday signups until Tuesday morning, new folks have priority
   - We assume it's OK to record lightning talks for Youtube unless you say otherwise
-  - Potential lightning talks Thursday after progressive dinner, before Karaoke
+  - Potential lightning talks Thursday after progressive dinner
 
 - Hackathon day
   - Tuesday after lightning talks: form groups and decide where to meet
@@ -54,7 +53,7 @@ weight: 160
 
 - Game nights: announce if a game might be offensive, law of two feet.
 
-- Progressive Dinner and Karaoke
+- Progressive Dinner
 
 - Saturday breakfast
 
@@ -62,7 +61,7 @@ ________________________________________
 
 - Pronouns and whether photos are ok
 - Group picture on day one?
-- Butterflies and bumblebees, if you're thinking it'll be over soon
+- Butterflies and bumblebees. If you're thinking it'll be over soon...
 - Private feedback, public reflection
 - Would you be interested in some difficult feedback?
 - Explicit permission to take care of yourself. Law of two feet writ large.
