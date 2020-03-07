@@ -5,6 +5,7 @@ weight: 160
 
 - Open Spaces: creating discussion
   - Post-its, merging similar sessions, moving sessions around
+  - Please update the online board
   - Law of two feet
   - Law of two ears and one mouth
   - Invert your participation mode
