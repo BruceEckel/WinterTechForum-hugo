@@ -23,6 +23,8 @@ weight: 160
   Let someone know soon if you're having trouble, don't wait until it's bad. Take Ibuprofen
   if you have the slightest headache, to catch it early.
 
+- Alcohol and other things.
+
 - Use Slack for everything
   - You can almost always do things with other people if you want.
 
@@ -33,7 +35,7 @@ weight: 160
 - Lightning talks
   - No Tuesday signups until Tuesday morning, new folks have priority
   - We assume it's OK to record lightning talks for Youtube unless you say otherwise
-  - Potential lightning talks thursday after progressive dinner, before Karaoke
+  - Potential lightning talks Thursday after progressive dinner, before Karaoke
 
 - Hackathon day
   - Tuesday after lightning talks: form groups and decide where to meet
@@ -44,7 +46,8 @@ weight: 160
   The Wooden Nickel is an expensive tourist trap. I have a personal grudge
   against Elk Avenue Prime. Sunflower is the best place in town, followed by
   Django's; I haven't been to Soupcon in a long time (expensive) so I'm not
-  sure if it's still as good.
+  sure if it's still as good. The Coal Creek Grill is rumored to be very good
+  these days.
 
 - Lunch: we recommend Momo's, Teocalli Tamale for good and fast. Also the Last
   Steep, Ryce and Pita's in Paradise. The Gas Cafe makes good hamburgers.
