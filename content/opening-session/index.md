@@ -61,7 +61,7 @@ weight: 160
 ________________________________________
 
 - Pronouns and whether photos are ok
-- Group picture on day one?
+- Group picture on Thursday during a session break?
 - Butterflies and bumblebees. If you're thinking it'll be over soon...
 - Private feedback, public reflection
 - Would you be interested in some difficult feedback?
