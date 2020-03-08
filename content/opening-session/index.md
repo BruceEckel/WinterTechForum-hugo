@@ -40,17 +40,21 @@ weight: 160
 - Hackathon day
   - Tuesday after lightning talks: form groups and decide where to meet
 
-- Yurt dinner Friday: Is there anyone not coming, so I can tell the caterer?
+- Yurt dinner Friday. I need to tell the caterer:
+  - Is there anyone not coming?
+  - Number of Vegetarians
+  - Dietary restrictions (she's going to make most everything gluten free)
 
-- Dinner: My house is available for group dinners; I'll often do that.
-  The Wooden Nickel is an expensive tourist trap. I have a personal grudge
-  against Elk Avenue Prime. Sunflower is the best place in town, followed by
-  Django's; I haven't been to Soupcon in a long time (expensive) so I'm not
-  sure if it's still as good. The Coal Creek Grill is rumored to be very good
-  these days.
+- Dinner: My house is available for group dinners; I'll often do that. The
+Wooden Nickel is an expensive tourist trap. I have a personal grudge against
+Elk Avenue Prime. Sunflower is the best place in town, followed by Django's; I
+haven't been to Soupcon in a long time (expensive) so I'm not sure if it's
+still as good. The Coal Creek Grill is rumored to be very good these days (and
+has breakfast). The Last Steep is reliable.
 
 - Lunch: we recommend Momo's, Teocalli Tamale for good and fast. Also the Last
-  Steep, Ryce and Pita's in Paradise. The Gas Cafe makes good hamburgers.
+Steep, Ryce and Pita's in Paradise. The Gas Cafe makes good hamburgers.
+Breakfast & Lunch at McGill's is good.
 
 - Game nights: announce if a game might be offensive, law of two feet.
 
@@ -61,7 +65,7 @@ weight: 160
 ________________________________________
 
 - Pronouns and whether photos are ok
-- Group picture on Thursday during a session break?
+- Group picture on Thursday during a morning session break
 - Butterflies and bumblebees. If you're thinking it'll be over soon...
 - Private feedback, public reflection
 - Would you be interested in some difficult feedback?
