@@ -10,12 +10,16 @@ activities.
 **Post-conference**: Often people stay the day after the conference or for the
 weekend; informal gatherings have been known to happen.
 
+This year we will only have the upstairs portion of the Parish Hall.
+
+Note that the usual days for the Yurt dinner and progressive dinner have been switched.
+
 ***********************************
 
 Sunday 6:00pm
 -------------
 
-Welcome Potluck Barbeque at Bruce's House (107 WhiteRock). Bring something to
+Welcome Potluck Barbecue at Bruce's House (107 WhiteRock). Bring something to
 grill, cook, or share. There will be food, so if you're just getting into town
 and don't have time, or you're hopeless in the kitchen, just bring your
 favorite beverage.
@@ -26,24 +30,12 @@ the corner, and you'll see a little white cargo trailer in front. I usually
 have colorful lights on, as well.
 
 ***********************************
-## Parish Hall Blackout Times
-
-- Tuesday 4:30pm - 6pm, Entire Building Unavailable
-
-- Wednesday 12:30pm - 3pm, Downstairs unavailable
-
-- Wednesday 6pm - 7:30pm, Downstairs unavailable
-
-- Friday 7:30am - 9am, Downstairs unavailable
-
-- Friday we clean up and vacate by approximately 1:30 pm
-
-***********************************
 
 Monday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
+  There will be coffee and bagels at Bruce's house starting at 7:45am.
 
 - **9am**\
 Conference Overview\
@@ -55,7 +47,7 @@ Session 1
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Groups go to dinner or informal barbeque at Bruce's
+- **Evening** Groups go to dinner or informal barbecue at Bruce's
 
 - **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall (Public welcome)
 
@@ -67,6 +59,7 @@ Tuesday
 -------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
+  There will be coffee and bagels at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 3
 
@@ -80,7 +73,7 @@ Tuesday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Groups go to dinner or informal barbeque at Bruce's
+- **Evening** Groups go to dinner or informal barbecue at Bruce's
 
 - **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall (Public welcome)
 
@@ -98,7 +91,7 @@ at [Evolve Coworking](https://www.evolvework.co/)**
 
 [Hackathon Day Details]({{< relref "hackathon/index.md" >}})
 
-- **Evening** Groups go to dinner or informal barbeque at Bruce's
+- **Evening** Groups go to dinner or informal barbecue at Bruce's
 
 - **8pm** Hackathon Showcase Lightning Talks at the Parish Hall (Public welcome)
 
@@ -110,6 +103,7 @@ Thursday
 --------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
+  There will be coffee and bagels at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 6
 
@@ -123,9 +117,7 @@ Thursday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Progressive Dinner at Rental Houses
-
-- (Possibly) "Greased" lightning talks
+- **Evening** Ski/Snowshoe to catered Yurt dinner
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -135,6 +127,7 @@ Friday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
+  There will be coffee and bagels at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 9
 
@@ -148,7 +141,9 @@ Friday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Ski/Snowshoe to catered Yurt dinner
+- **Evening** Progressive Dinner at Rental Houses
+
+- **Followed by:** Games and hanging out at rental houses
 
 ***********************************
 
