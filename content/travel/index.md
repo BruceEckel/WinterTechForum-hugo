@@ -3,6 +3,18 @@ title: Travel
 weight: 110
 ---
 
+## The Cheapest Way (With Others)
+
+-   Denver is a hub for Southwest Airlines and Frontier Airlines, so you can
+    usually get an inexpensive nonstop flight.
+-   Sharing a car also has the benefit of starting conference conversations
+    early, so it has become a preferred way to get to Crested Butte.
+-   Rent a car from the Denver Airport. If you're a Costco member, their [car
+    rental service](https://www.costcotravel.com/Rental-Cars) is highly
+    recommended.
+-   Use Slack to find others to share your car rental.
+-   It takes about 4.5 hours to drive. [Here's the route to follow](https://www.google.com/maps/dir/Denver+International+Airport+(DEN),+8500+Pe%C3%B1a+Blvd,+Denver,+CO+80249/Crested+Butte,+CO/@39.1194123,-106.9531831,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x876c7f2a98ff44ff:0x49583bb435b59c6a!2m2!1d-104.6764131!2d39.8563629!1m5!1m1!1s0x8740723e8a38d3e3:0x37006e19d5e7f39f!2m2!1d-106.9878231!2d38.8697146!3e0). It's a beautiful drive so if you can do it primarily in the daylight that is optimal.
+
 ## The Cheapest Way (On Your Own)
 
 1.  Fly to Denver airport on a discount airline like Southwest. Denver is a
@@ -10,65 +22,63 @@ weight: 110
     time to get to the bus. Before buying your airline ticket, make sure the
     return timing for the bus works.
 
-1.  From baggage claim, follow the signs to the transit center. The signs will take
-    you down escalators. At the bottom of the escalators, there are machines to
-    purchase a one way $10.50 ticket which will take you to Union station. You can
-    skip the line by downloading the app from [the light rail site](http://www.rtd-denver.com/).
+1.  From baggage claim, follow the signs to the light rail. The signs will take
+    you down escalators (If you get turned around, there are information booths
+    or you can ask an airport employee). At the bottom of the escalators, there
+    are machines to purchase a one way $10.50 ticket which will take you to
+    Union station. You can also download their app and [buy a ticket that way](http://www.rtd-denver.com/).
 
 1.  Take the [Light Rail from Denver Airport to Union
     Station](https://www.denver.org/about-denver/transportation/airport-rail/)
-    ($10.50). **NOTE**: Remain at Union Station -- the Gunnison bus departs from a lower
-    level from where the light rail lets off. You don't need to leave Union
-    Station.
+    ($10.50). It terminates at Union Station so there's no risk you will miss
+    your stop.
 
-1.  Take the [Bus from Union Station to Gunnison](
-    https://webstore.trailways.com/buy-bus-tickets/denver-co-to-gunnison-co)
-    ($37). This is a very comfortable bus with power outlets and WiFi (good
-    enough for email but not for streaming). You should buy your ticket
-    online, when you make your airline reservation. When configured correctly,
-    the bus ticket web page should look something like this: ![Bus
-    Ticket](/images/BusReservation.png)
+1.  Take the [Bustang Outrider from Union Station to Crested Butte](
+    https://ridebustang.com/outrider/schedules/crested-butte-denver/) ($45).
+    This is a very comfortable bus with power outlets and WiFi (Might work for
+    streaming but best to download). You can only buy tickets with their phone
+    app, so it's worth installing it and buying one ahead of time. You
+    "activate" the ticket right before you get on the bus, again through your
+    phone.
 
-1.  Get off at the [Powerstop Gas Station & Cafe](http://www.the-powerstop.com/).
+1.  The bus departs on a lower level from where the light rail lets off. There
+    are escalators and elevators. You don't need to leave Union Station. If you
+    get confused there's a traveler's information station inside the Union
+    Station building.
 
-1.  Travel the rest of the way to Crested Butte via Alpine Express (you'll need to
-    make a reservation ahead of time). "We typically pick up passengers at the
-    Powerstop bus stop and bring them to where they are staying at in Crested
-    Butte. The cost is $37.53 one way per adult or $68.38 roundtrip for most
-    addresses." From the [Alpine Express home
-    page](http://alpineexpressshuttle.com), click on "Reservations," then, below
-    "Gunnison/Crested Butte Airport to/from Crested Butte," select either "Adult
-    Round Trip" or "Adult One Way." Put in the date, the bus arrival time (6:30 pm) under
-    "flight arrival time", and put "Powerstop" in the space labeled "Name of
-    Hotel/Condo or Lodging Address." You can leave the rest of the fields alone.
-    Alpine Express will email you a confirmation. If you need to you can also
-    contact them: <info@alpineexpressshuttle.com>.
+1.  The bus to Crested Butte departs at 1:50 pm. It shows up and starts loading
+    about 15 minutes before departure so it's good to be there at 1:30. If you
+    have time you can go outside and walk around the local city and there are
+    numerous restaurants and coffee shops to hang out and that are all pretty
+    good.
 
-1.  For your return trip, reverse the order of the above. Note that if you buy a
-    round-trip ticket from Alpine Express the total cost is a bit cheaper.
+1.  The bus terminates at the "4-way Stop" in Crested Butte, at about 7:30.
+    There's a heated indoor shelter where it lets off. Depending on snow
+    conditions and your luggage you can walk to pretty much any destination in
+    Crested Butte but you will probably want to have someone pick you up
+    (announce on Slack).
 
-1.  When returning, try to arrange it so your light rail train arrives at the airport
-    at least 90 minutes before your flight leaves. If you do so, you can check your
-    baggage at a special desk at the light rail station.
+1.  The return bus does leave Crested Butte quite early (5:15 am) but it then
+    gets you into Union Station at 10:50 am which is enough time for many
+    afternoon flights.
 
-
-## The Cheapest Way (With Others)
--   Denver is a hub for Southwest Airlines and Frontier Airlines, so you can usually
-    get an inexpensive nonstop flight.
--   Rent a car from Denver. If you're a Costco member, their
-    [car rental service](https://www.costcotravel.com/Rental-Cars) is exceptional.
--   Use the mailing list to find others to share your car rental.
-
+1.  When returning, try to arrange it so your light rail train arrives at the
+    airport at least 90 minutes before your flight leaves. If you do this, you
+    can check your baggage at a special desk at the airport light rail station.
 
 ## Flying into Gunnison
--   This is often the fastest, and most expensive, option.
--   Alpine Express takes you from the Gunnison airport to Crested Butte.
--   Because of weather, the Gunnison flight can be unreliable, especially in Winter.
--   [Airline tips](https://sites.google.com/site/javaposseroundup/airline-tips)
 
+-   This is usually the fastest but most expensive option.
+-   Alpine Express takes you from the Gunnison airport to Crested Butte, and
+    will deliver you right to the door of your lodging.
+-   Because of weather, the Gunnison flight can be unreliable, especially in
+    Winter.
+-   [Airline tips](https://sites.google.com/site/javaposseroundup/airline-tips).
 
-## Other alternatives
--   Coaches can be rented for groups, to take you to Crested Butte
--   Montrose airport (about an hour further away than Gunnison) can sometimes be more
-    reliable than Gunnison in the Winter. There are services to bring you from Montrose
-    to Crested Butte, or you can rent a car.
+## Alternatives
+
+-   Coaches can be rented for groups, to take you to Crested Butte.
+-   Montrose airport (about an hour further away than Gunnison) can sometimes be
+    more reliable than Gunnison in the Winter. Both Southwest and United fly
+    into Montrose, but almost always via Denver. There are services to bring you
+    from Montrose to Crested Butte, or you can rent a car.
