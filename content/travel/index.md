@@ -24,11 +24,12 @@ weight: 110
     time to get to the bus. Before buying your airline ticket, make sure the
     return timing for the bus works.
 
-1.  From baggage claim, follow the signs to the light rail. The signs will take
-    you down escalators (If you get turned around, there are information booths
-    or you can ask an airport employee). At the bottom of the escalators, there
-    are machines to purchase a one way $10.50 ticket which will take you to
-    Union station. You can also download their app and [buy a ticket that way](http://www.rtd-denver.com/).
+1.  From baggage claim, follow the signs to the light rail (If you get turned
+    around, there are information booths or you can ask an airport employee).
+    The signs will take you down escalators. At the bottom of the escalators,
+    there are machines on the right to purchase a one way $10.50 ticket which
+    will take you to Union station. You can also download their app and [buy a
+    ticket that way](http://www.rtd-denver.com/).
 
 1.  Take the [Light Rail from Denver Airport to Union
     Station](https://www.denver.org/about-denver/transportation/airport-rail/)
