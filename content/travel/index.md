@@ -22,14 +22,14 @@ weight: 110
 1.  Fly to Denver airport on a discount airline like Southwest. Denver is a
     Southwest hub, so you can usually get a nonstop flight. Arrive with enough
     time to get to the bus. Before buying your airline ticket, make sure the
-    return timing for the bus works.
+    return timing for the bus works (see below).
 
 1.  From baggage claim, follow the signs to the light rail (If you get turned
     around, there are information booths or you can ask an airport employee).
     The signs will take you down escalators. At the bottom of the escalators,
-    there are machines on the right to purchase a one way $10.50 ticket which
-    will take you to Union station. You can also download their app and [buy a
-    ticket that way](http://www.rtd-denver.com/).
+    there are machines on the right to purchase a one way ticket which will take
+    you to Union station. You can also download their app and [buy a ticket that
+    way](http://www.rtd-denver.com/).
 
 1.  Take the [Light Rail from Denver Airport to Union
     Station](https://www.denver.org/about-denver/transportation/airport-rail/)
@@ -51,9 +51,9 @@ weight: 110
 
 1.  The bus to Crested Butte departs at 1:50 pm. It shows up and starts loading
     about 15 minutes before departure so it's good to be there at 1:30. If you
-    have time you can go outside and walk around the local city and there are
-    numerous restaurants and coffee shops to hang out and that are all pretty
-    good.
+    have time you can go outside and walk around the local area and there are
+    numerous restaurants and coffee shops to hang out in that are all pretty
+    nice.
 
 1.  The bus terminates at the "4-way Stop" in Crested Butte, at about 7:30.
     There's a heated indoor shelter where it lets off. Depending on snow
