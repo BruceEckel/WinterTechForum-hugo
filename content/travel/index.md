@@ -49,11 +49,14 @@ weight: 110
     get confused there's a traveler's information station inside the Union
     Station building.
 
+1.  If you have time you can go outside and walk around the local area. There
+    are numerous restaurants and coffee shops to hang out in that are all pretty
+    nice.
+
 1.  The bus to Crested Butte departs at 1:50 pm from the Bus Concourse at Gate
     B4. It shows up and starts loading about 15 minutes before departure so it's
-    good to be there at 1:30. If you have time you can go outside and walk
-    around the local area and there are numerous restaurants and coffee shops to
-    hang out in that are all pretty nice.
+    good to be there at 1:30. The driver will check you in, so you'll know
+    you're on the right bus.
 
 1.  The bus terminates at the "4-way Stop" in Crested Butte, at about 7:30.
     There's a heated indoor shelter where it lets off. Depending on snow
