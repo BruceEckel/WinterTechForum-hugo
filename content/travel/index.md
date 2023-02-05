@@ -13,7 +13,9 @@ weight: 110
     rental service](https://www.costcotravel.com/Rental-Cars) is highly
     recommended.
 -   Use Slack to find others to share your car rental.
--   It takes about 4.5 hours to drive. [Here's the route to follow](https://www.google.com/maps/dir/Denver+International+Airport+(DEN),+8500+Pe%C3%B1a+Blvd,+Denver,+CO+80249/Crested+Butte,+CO/@39.1194123,-106.9531831,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x876c7f2a98ff44ff:0x49583bb435b59c6a!2m2!1d-104.6764131!2d39.8563629!1m5!1m1!1s0x8740723e8a38d3e3:0x37006e19d5e7f39f!2m2!1d-106.9878231!2d38.8697146!3e0). It's a beautiful drive so if you can do it primarily in the daylight that is optimal.
+-   It takes about 4.5 hours to drive. [Here's the route to follow](https://www.google.com/maps/dir/Denver+International+Airport+(DEN),+8500+Pe%C3%B1a+Blvd,+Denver,+CO+80249/Crested+Butte,+CO/@39.1194123,-106.9531831,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x876c7f2a98ff44ff:0x49583bb435b59c6a!2m2!1d-104.6764131!2d39.8563629!1m5!1m1!1s0x8740723e8a38d3e3:0x37006e19d5e7f39f!2m2!1d-106.9878231!2d38.8697146!3e0). (I-70 to 470 to 285 to 50 to 135).
+-   It's a beautiful drive so if you can do it primarily in the daylight that is
+    optimal.
 
 ## The Cheapest Way (On Your Own)
 
