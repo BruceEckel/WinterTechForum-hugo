@@ -19,10 +19,8 @@ Note that the usual days for the Yurt dinner and progressive dinner have been sw
 Sunday 6:00pm
 -------------
 
-Welcome Potluck Barbecue at Bruce's House (107 WhiteRock). Bring something to
-grill, cook, or share. There will be food, so if you're just getting into town
-and don't have time, or you're hopeless in the kitchen, just bring your
-favorite beverage.
+Welcome dinner at Bruce's House (107 WhiteRock). We'll have food, but if
+you have a favorite beverage you might want to bring that.
 
 Go to the corner of First and WhiteRock, and you'll see a building of four
 townhomes with solar panels on the roof. My unit is the furthest away from
@@ -35,7 +33,7 @@ Monday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and bagels at Bruce's house starting at 7:45am.
+  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9am**\
 Conference Overview\
@@ -59,7 +57,7 @@ Tuesday
 -------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and bagels at Bruce's house starting at 7:45am.
+  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 3
 
@@ -103,7 +101,7 @@ Thursday
 --------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and bagels at Bruce's house starting at 7:45am.
+  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 6
 
@@ -117,7 +115,7 @@ Thursday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Ski/Snowshoe to catered Yurt dinner
+- **Evening** Progressive Dinner at Rental Houses
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -127,7 +125,7 @@ Friday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and bagels at Bruce's house starting at 7:45am.
+  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 9
 
@@ -141,7 +139,8 @@ Friday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Progressive Dinner at Rental Houses
+- **Evening** Ski/Snowshoe around the free Town Loop, then to catered dinner at
+  the Historic Train Depot, 716 Elk Ave.
 
 - **Followed by:** Games and hanging out at rental houses
 
