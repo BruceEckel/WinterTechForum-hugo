@@ -1,4 +1,4 @@
-## Parish Hall Times Needed for Winter Tech Forum Conference
+## Parish Hall Times for the Winter Tech Forum Conference
 
 These are the actual times we will be using it; should allow probably 1/2 hour before and a few minutes after each time slot.
 
