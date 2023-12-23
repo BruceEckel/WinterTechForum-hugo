@@ -10,11 +10,17 @@ activities.
 **Post-conference**: Often people stay the day after the conference or for the
 weekend; informal gatherings have been known to happen.
 
-This year we will only have the upstairs portion of the Parish Hall.
-
-Note that the usual days for the Yurt dinner and progressive dinner have been switched.
-
 ***********************************
+
+Sunday Morning
+--------------
+
+We'll cross-country ski out to the Yurt for their brunch. This is a relatively mild ski, and if
+you're not comfortable with skis you can use snowshoes. Equipment is available for rent from the
+[Nordic Center](https://cbnordic.org/).
+
+[Yurt Brunch Details](https://cbnordic.org/things-to-do/magic-meadows-yurt/yurt-sunday-brunch/).
+They go from 10am-2pm but it's better to get there early because they do run out of food.
 
 Sunday 6:00pm
 -------------
@@ -139,8 +145,10 @@ Friday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Ski/Snowshoe around the free Town Loop, then to catered dinner at
-  the Historic Train Depot, 716 Elk Ave.
+- **Evening** Catered Dinner TBA
+
+<!-- Ski/Snowshoe around the free Town Loop, then to catered dinner at
+  the Historic Train Depot, 716 Elk Ave. -->
 
 - **Followed by:** Games and hanging out at rental houses
 
