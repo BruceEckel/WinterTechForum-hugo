@@ -41,7 +41,7 @@ seems to prevent most of the problems.\
 When travelling, a more convenient system is the NeilMed Sinus Rinse, which
 has a soft squeeze bottle (doesn't break in your luggage like a neti pot might)
 and pre-measured packets. These are often available at drugstores; here's a
-[link to Amazon](https://smile.amazon.com/dp/B004N13VY4/ref=cm_sw_em_r_mt_dp_U_2ESGCb5KHV8N9).
+[link to Amazon](https://www.amazon.com/dp/B004N13VY4/ref=cm_sw_em_r_mt_dp_U_2ESGCb5KHV8N9).
 
 5. Ibuprofen/Advil. I can't point you to them but apparently recent studies
 have shown Ibuprofen to be quite effective when taken at the first indications
@@ -56,3 +56,5 @@ Spa*, 308 Elk Avenue (the main street). Open 10 a.m. - 8 p.m. If you're really
 feeling the altitude, don't wait! Also, the urgent care clinic (at the top of
 this page) is only three miles away, so if you think you might need that, go
 see them sooner rather than later.
+
+7. Another option is [The Fountain](https://www.thefountaincb.com/) on Elk & 4th, which can give you IV Therapy for altitude adjustment. 
