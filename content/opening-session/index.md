@@ -9,10 +9,10 @@ weight: 160
   - Law of two feet
   - Law of two ears and one mouth
   - Invert your participation mode
-  - It's OK to try any experiment via post-it. Like Julie's request for help on python.
+  - It's OK to try any experiment via post-it. Example: one person requested help on python.
     Even if only one person shows up you'll have an experience. If no one shows up,
-    you might have scheduled it against something that people really wanted to see,
-    it doesn't mean your idea was bad.
+    you might have scheduled it against something that people really 
+    wanted to attend&mdash;it doesn't mean your idea was bad.
 
 - Afternoon sessions
   - Skiing
