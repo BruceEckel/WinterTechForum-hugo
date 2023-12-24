@@ -36,5 +36,3 @@ request</a>. Don't let the fee be the reason you can't attend.
 - *In my experience, the open-spaces forums that Bruce has facilitated have been a great source of new ideas, new friends in the tech world, and a fresh source of inspiration and energy I could apply to my regular work.* -- Joel Neely
 
 - Dianne Marsh's [Summary of the 2016 WTF](http://diannemarsh.com/conference-summary-winter-tech-forum-2016/)
-
-- Chris Hartjes on his [First WTF Experience](https://www.littlehart.net/atthekeyboard/2017/03/12/fighting-fear-and-loathing-in-crested-butte/).
