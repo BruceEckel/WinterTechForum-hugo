@@ -25,10 +25,10 @@ How do we keep our systems from failing, and how do we recover from failures whe
 - Plus anything else anyone wants to talk about, of course.
 - And our business track.
 
-The Topics from 2019
---------------------
+Session Topics from Previous Conferences
+----------------------------------------
 
-Here are the session topics (created by attendees):
+(All created by attendees)
 
 - Age/D+I in Tech
 - Ansible vs Salt at Massive Scale
@@ -66,4 +66,3 @@ Here are the session topics (created by attendees):
 - Working Remote
 
 There were also a number of afternoon workshops.
-
