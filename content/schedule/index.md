@@ -145,7 +145,10 @@ Friday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Catered Dinner TBA
+- **Evening** 4:30pm: Meet at the Nordic center to get equipment and ski or showshoe
+  to the Yurt for a catered dinner. Everything for this (including equipment and
+  ski pass) is included in the conference fee.
+  Details [here](https://cbnordic.org/things-to-do/magic-meadows-yurt/yurt-dinners/).
 
 <!-- Ski/Snowshoe around the free Town Loop, then to catered dinner at
   the Historic Train Depot, 716 Elk Ave. -->

@@ -8,9 +8,16 @@ Organized by Bruce Eckel<br/>
 <span style="font-size:150%">Feb 26-Mar 1, 2024</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
-- Attendance limited to 45
+- Attendance limited to 30
 
 - Price: $750
+
+- REGISTER EARLY: We have 30 reservations for the Friday night Yurt dinner
+  (ski/snowshoe to the Yurt for a catered dinner). Everything for this (including equipment and ski pass) is included in the conference fee.
+  However, unused tickets must be released on February 12.
+  You can still register at the last minute, but if you wait until then you
+  will not have a Yurt dinner.
+  Details [here](https://cbnordic.org/things-to-do/magic-meadows-yurt/yurt-dinners/).
 
 - When scheduling, please [note that there are events]({{< relref
 "schedule/index.md" >}}) the morning of the 25th and the morning of the 2th.
