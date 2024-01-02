@@ -28,8 +28,7 @@ weight: 110
     around, there are information booths or you can ask an airport employee).
     The signs will take you down escalators. At the bottom of the escalators,
     there are machines on the right to purchase a one way ticket which will take
-    you to Union station. You can also download their app and [buy a ticket that
-    way](http://www.rtd-denver.com/).
+    you to Union station. You can also [download their app](http://www.rtd-denver.com/) and buy a ticket that way.
 
 1.  Take the [Light Rail from Denver Airport to Union
     Station](https://www.denver.org/about-denver/transportation/airport-rail/)
@@ -66,11 +65,26 @@ weight: 110
 
 1.  The return bus does leave Crested Butte quite early (5:15 am) but it then
     gets you into Union Station at 10:50 am which is enough time for many
-    afternoon flights.
+    afternoon flights. The light rail to the airport leaves every 15 minutes, so
+    assume you will get to the airport around noon.
+
+1.  When returning, go up to the main level, which takes you outside. Find
+    Track One, which is where the airport light rail departs from.
 
 1.  When returning, try to arrange it so your light rail train arrives at the
     airport at least 90 minutes before your flight leaves. If you do this, you
     can check your baggage at a special desk at the airport light rail station.
+
+1.  If this doesn't get you there in time for your flight (or you prefer early
+    flights, as I do), you can stay at the
+    [Hyatt Place](https://www.hyatt.com/en-US/hotel/colorado/hyatt-place-pena-station-denver-airport/denzn)
+    which is only one stop from the airport.
+    Get off the light rail at 61st & Pena Station, then you just walk across
+    the parking lot to the hotel.
+    The early trains from the hotel to the airport start at 3:25 am.
+    [Check the schedule](https://app.rtd-denver.com/route/A/schedule?serviceType=2&direction=Eastbound&branch=)
+    when taking these early trains because they don't start running at 15-minute
+    intervals until about 5am.
 
 ## Flying into Gunnison
 
