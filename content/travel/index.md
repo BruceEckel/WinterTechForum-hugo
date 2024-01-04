@@ -68,20 +68,23 @@ weight: 110
     afternoon flights. The light rail to the airport leaves every 15 minutes, so
     assume you will get to the airport around noon.
 
-1.  When returning, go up to the main level, which takes you outside. Find
+1.  When returning, once you reach Union Station and get off the bus,
+    go up to the main level, which takes you outside. Find
     Track One, which is where the airport light rail departs from.
 
 1.  When returning, try to arrange it so your light rail train arrives at the
-    airport at least 90 minutes before your flight leaves. If you do this, you
-    can check your baggage at a special desk at the airport light rail station.
+    airport (which will be around noon if you get on the light rail right after
+    arriving at Union Station on the bus) at least 90 minutes before your flight
+    leaves. If you do this, you can check your baggage at a special desk at the
+    airport light rail station.
 
 1.  If this doesn't get you there in time for your flight (or you prefer early
     flights, as I do), you can stay at the
     [Hyatt Place](https://www.hyatt.com/en-US/hotel/colorado/hyatt-place-pena-station-denver-airport/denzn)
     which is only one stop from the airport.
-    Get off the light rail at 61st & Pena Station, then you just walk across
-    the parking lot to the hotel.
-    The early trains from the hotel to the airport start at 3:25 am.
+    Get off the light rail at 61st & Pena Station, then just walk across
+    the parking lot to the hotel. The early trains from the hotel to the airport
+    start at 3:25 am.
     [Check the schedule](https://app.rtd-denver.com/route/A/schedule?serviceType=2&direction=Eastbound&branch=)
     when taking these early trains because they don't start running at 15-minute
     intervals until about 5am.
@@ -98,7 +101,7 @@ weight: 110
 
 ## Alternatives
 
--   Coaches can be rented for groups, to take you to Crested Butte.
+-   Coaches can be rented for groups to take you to Crested Butte.
 -   Montrose airport (about an hour further away than Gunnison) can sometimes be
     more reliable than Gunnison in the Winter. Both Southwest and United fly
     into Montrose, but almost always via Denver. There are
