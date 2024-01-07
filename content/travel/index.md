@@ -28,7 +28,7 @@ weight: 110
     around, there are information booths or you can ask an airport employee).
     The signs will take you down escalators. At the bottom of the escalators,
     there are machines on the right to purchase a one way ticket which will take
-    you to Union station. You can also [download their app](http://www.rtd-denver.com/) and buy a ticket that way.
+    you to Union station. You can also [download their app](https://rtddenver.justride.tickets/) and buy a ticket that way.
 
 1.  Take the [Light Rail from Denver Airport to Union
     Station](https://www.denver.org/about-denver/transportation/airport-rail/)
