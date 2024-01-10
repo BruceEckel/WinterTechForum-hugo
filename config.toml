@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 # author = "Bruce Eckel"
 description = "A Self-Organizing Open Spaces Conference."
 
-logo = "/images/wtf-web.jpg"
+logo = "/images/wtf-web-nodate.jpg"
 favicon = "images/wtf-favicon-96.ico"
 banner_image = "/images/WinterTechForumBanner.png"
 
