@@ -30,7 +30,7 @@ weight: 110
     there are machines on the right to purchase a one way ticket which will take
     you to Union station.
 
- 1. For further simplicity,
+1. For further simplicity,
     [download the light rail app](https://rtddenver.justride.tickets/) and buy
     your ticket that way.
     NOTE: It appears that this makes the tickets much cheaper.
