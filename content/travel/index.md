@@ -6,7 +6,9 @@ weight: 110
 ## The Cheapest Way (With Others)
 
 -   Denver is a hub for Southwest Airlines and Frontier Airlines, so you can
-    usually get an inexpensive nonstop flight.
+    usually get an inexpensive nonstop flight. Note that it is also possible
+    to fly into Colorado Springs or Montrose, but those are less likely to
+    be nonstop flights.
 -   Sharing a car also has the benefit of starting conference conversations
     early, so it has become a preferred way to get to Crested Butte.
 -   Rent a car from the Denver Airport. If you're a Costco member, their [car
