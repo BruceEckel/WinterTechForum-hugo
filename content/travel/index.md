@@ -30,10 +30,10 @@ weight: 110
     there are machines on the right to purchase a one way ticket which will take
     you to Union station.
 
-1. For further simplicity,
+1.  For further simplicity,
     [download the light rail app](https://rtddenver.justride.tickets/) and buy
     your ticket that way.
-    NOTE: It appears that this makes the tickets much cheaper.
+    NOTE: This often makes the tickets much cheaper.
 
 1.  Take the [Light Rail from Denver Airport to Union
     Station](https://www.denver.org/about-denver/transportation/airport-rail/)
@@ -44,17 +44,16 @@ weight: 110
     https://ridebustang.com/outrider/schedules/crested-butte-denver/) ($45).
     This is a very comfortable bus with power outlets and WiFi (Might work for
     streaming but best to download). You can only buy tickets with their phone
-    app, so it's worth installing it and buying one ahead of time. You
-    "activate" the ticket right before you get on the bus, again through your
+    app, so it's worth installing it and buying one ahead of time. Don't
+    "activate" the ticket until right before you get on the bus, again through your
     phone.
 
 1.  The bus departs on a lower level from where the light rail lets off. There
     are escalators and elevators. You don't need to leave Union Station. If you
     get confused there's a traveler's information station inside the Union
     Station building, right where the light rail lets off.
-
-1.  If you have time you can go outside and walk around the local area. There
-    are numerous restaurants and coffee shops to hang out in that are all pretty
+    If you have time you can go outside and walk around the local area. There
+    are a number of restaurants and coffee shops to hang out in that are all pretty
     nice.
 
 1.  The bus to Crested Butte departs at 1:50 pm from the Bus Concourse at Gate
@@ -63,7 +62,7 @@ weight: 110
     you're on the right bus. At least in the Winter, the best place to sit is
     probably the left side of the bus, in both directions.
 
-1.  The bus terminates at the "4-way Stop" in Crested Butte, at about 7:30.
+1.  The bus terminates at the "4-way Stop" in Crested Butte, at about 7:30 pm.
     There's a heated indoor shelter where it lets off. Depending on snow
     conditions and your luggage you can walk to pretty much any destination in
     Crested Butte but you will probably want to have someone pick you up
@@ -75,8 +74,8 @@ weight: 110
     assume you will get to the airport around noon.
 
 1.  When returning, once you reach Union Station and get off the bus,
-    go up to the main level, which takes you outside. Find
-    Track One, which is where the airport light rail departs from.
+    go up to the main level, which takes you outside. The airport light rail departs
+    from Track One.
 
 1.  When returning, try to arrange it so your light rail train arrives at the
     airport (which will be around noon if you get on the light rail right after
