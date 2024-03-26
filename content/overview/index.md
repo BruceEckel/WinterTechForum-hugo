@@ -5,14 +5,14 @@ weight: 10
 ---
 
 Organized by Bruce Eckel<br/>
-<span style="font-size:150%">Feb 26-Mar 1, 2024</span>
+<span style="font-size:150%">2025 TBA</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
-- Attendance limited to 30
+- Attendance limited to 40
 
 - Price: $750
 
-- REGISTER EARLY: We have 30 reservations for the Friday night Yurt dinner
+- REGISTER EARLY: We have 40 reservations for the Friday night Yurt dinner
   (ski/snowshoe to the Yurt for a catered dinner). Everything for this (including equipment and ski pass) is included in the conference fee.
   However, unused tickets must be released on February 12.
   You can still register at the last minute, but if you wait until then you

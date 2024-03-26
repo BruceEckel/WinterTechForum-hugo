@@ -60,7 +60,7 @@ weight: 110
 
 1.  The bus to Crested Butte departs at 1:50 pm from the Bus Concourse at Gate
     B4. It shows up and starts loading about 15 minutes before departure so it's
-    good to be there at 1:30. The driver will check you in, so you'll know
+    good to be there at 1:30 or earlier; it's first-come first served and every once in awhile they run out of seats in Denver (the return trip originates in Crested Butte so you'll always get a seat in that direction). The driver will check you in, so you'll know
     you're on the right bus. At least in the Winter, the best place to sit is
     probably the left side of the bus, in both directions.
 
