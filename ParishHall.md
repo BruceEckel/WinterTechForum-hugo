@@ -2,7 +2,7 @@
 
 These are the actual times we will be using it; should allow probably 1/2 hour before and a few minutes after each time slot.
 
-Traditionally we have used both the upstairs and the downstairs room (when possible).
+Traditionally we use both the upstairs and the downstairs room (however, we accomodate previously reserved weekly activities in the downstairs room).
 
 ### Monday
 - 9am-Noon: Sessions
