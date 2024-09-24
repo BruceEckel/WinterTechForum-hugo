@@ -6,18 +6,23 @@ We've always been able to accommodate previously reserved Parish Hall weekly act
 
 ### Monday
 - 9am-Noon: Sessions (upstairs and downstairs)
-- 8pm-10pm: Lightning Talks (upstairs only)
 
 ### Tuesday
 - 9am-12:30pm: Sessions (upstairs and downstairs)
-- 8pm-10pm: Lightning Talks (upstairs only)
-
-### Wednesday
-- 8pm-11pm: Hackathon Showcase Lightning Talks
-  (upstairs only)
 
 ### Thursday
 - 9am-12:30pm: Sessions (upstairs and downstairs)
 
 ### Friday
 - 9am-12:30pm: Sessions (upstairs and downstairs)
+
+## Majestic Theatre Times for the Winter Tech Forum Conference
+
+### Monday
+- 8pm-10pm: Lightning Talks (upstairs only)
+
+### Tuesday
+- 8pm-10pm: Lightning Talks (upstairs only)
+
+### Wednesday
+- 8pm-11pm: Hackathon Showcase Lightning Talks
