@@ -1,6 +1,6 @@
 baseurl = "https://www.WinterTechForum.com/"
 languageCode = "en-us"
-title = "Winter Tech Forum: A Self-Organizing Open Spaces Conference & Retreat in Crested Butte, Colorado 2025 TBA"
+title = "Winter Tech Forum: A Self-Organizing Open Spaces Conference & Retreat, March 3-7 2025 in Crested Butte, Colorado"
 theme = "hugo-material-banner"
 metadataformat = "yaml"
 canonifyurls = true
