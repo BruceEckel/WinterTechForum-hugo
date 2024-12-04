@@ -7,12 +7,14 @@ weight: 140
 instruction can be arranged. There is also cross-country skiing
 (cheaper), snowshoeing, and snowmobiling.*
 
-- REGISTER EARLY: We have 30 reservations for the Friday night Yurt dinner
+- REGISTER EARLY: This helps us plan
+
+<!-- - REGISTER EARLY: We have 30 reservations for the Friday night Yurt dinner
   (ski/snowshoe to the Yurt for a catered dinner). Everything for this (including equipment and ski pass) is included in the conference fee.
   However, unused tickets must be released on February 12.
   You can still register at the last minute, but if you wait until then you
   will not have a Yurt dinner.
-  Details [here](https://cbnordic.org/things-to-do/magic-meadows-yurt/yurt-dinners/).
+  Details [here](https://cbnordic.org/things-to-do/magic-meadows-yurt/yurt-dinners/). -->
 
 <!-- Step 1:
 -------

@@ -12,10 +12,10 @@ Organized by Bruce Eckel<br/>
 
 - We are now holding the discussions in the beautiful [Center for The Arts](https://crestedbuttearts.org/), and the evening lightning talks/hackathon day presentations at the [Majestic Theatre](https://cbmajestic.org/press/).
 
-- REGISTER EARLY: We have limited spaces for the Thursday night Yurt dinner (this is still pending)
+<!-- - REGISTER EARLY: We have limited spaces for the Thursday night Yurt dinner (this is still pending)
   (ski/snowshoe to the Yurt for a catered dinner). Everything for this (including equipment and ski pass) is included in the conference fee.
   You can still register at the last minute, but if you wait until then you might not have a Yurt dinner.
-  Details [here](https://cbnordic.org/things-to-do/magic-meadows-yurt/yurt-dinners/).
+  Details [here](https://cbnordic.org/things-to-do/magic-meadows-yurt/yurt-dinners/). -->
 
 - When scheduling, please [note that there are events]({{< relref
 "schedule/index.md" >}}) the evening of the 2nd and the morning of the 8th.
