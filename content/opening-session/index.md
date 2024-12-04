@@ -11,7 +11,7 @@ weight: 160
   - Invert your participation mode
   - It's OK to try any experiment via post-it. Example: one person requested help on python.
     Even if only one person shows up you'll have an experience. If no one shows up,
-    you might have scheduled it against something that people really 
+    you might have scheduled it against something that people really
     wanted to attend&mdash;it doesn't mean your idea was bad.
 
 - Afternoon sessions
@@ -40,7 +40,7 @@ weight: 160
 - Hackathon day
   - Tuesday after lightning talks: form groups and decide where to meet
 
-- Yurt dinner Friday. I need to tell the caterer:
+- Dinner Friday. I need to tell the caterer:
   - Is there anyone not coming?
   - Number of Vegetarians
   - Dietary restrictions (she's going to make most everything gluten free)

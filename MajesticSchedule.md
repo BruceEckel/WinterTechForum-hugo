@@ -1,21 +1,5 @@
 # Majestic Theatre Times for the Winter Tech Forum Conference
 
-These are the actual times we will be using it; should allow probably 1/2 hour before and a few minutes after each time slot.
-
-## Outside Business Hours:
-
-### Monday
-9am-Noon: Sessions (200$ x 3 hours = $600)
-
-### Tuesday
-9am-12:30pm: Sessions (200$ x 3.5 hours = $700)
-
-### Thursday
-9am-12:30pm: Sessions (200$ x 3.5 hours = $700)
-
-### Friday
-9am-12:30pm: Sessions (200$ x 3.5 hours = $700)
-
 ## Evening Presentations (During Business Hours) (One Theatre Only)
 
 ### Monday

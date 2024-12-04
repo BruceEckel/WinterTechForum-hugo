@@ -135,7 +135,7 @@ Friday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
 
-- **Evening** Banquet at location TBA
+- **Evening** Group Dinner at location TBA
 
 <!-- - **Evening** 4:30pm: Meet at the Nordic center to get equipment and ski or showshoe
   to the Yurt for a catered dinner. Everything for this (including equipment and
