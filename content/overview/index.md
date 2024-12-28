@@ -26,7 +26,7 @@ break on the fee, <a href="/contact">make a request</a>. Don't let the fee be th
 <!-- <div style="text-align:center;font-size:175%;font-weight:bold">
 <a href = "/registration">Registration</a>
 </div> -->
-- Registration will be open soon
+- Registration <a href="/registration">is open!</a>[is open]("/registration")!
 
 ***
 
