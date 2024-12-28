@@ -8,7 +8,7 @@ Organized by Bruce Eckel<br/>
 <span style="font-size:150%">March 3-7 2025</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
-- Price: $750 <a href="/registration">Register Here</a>
+- Price: $750 &nbsp;&nbsp;&nbsp;<a href="/registration">Register Here</a>
 
 - We are now holding the discussions in the beautiful [Center for The Arts](https://crestedbuttearts.org/), and the evening lightning talks/hackathon day presentations at the [Majestic Theatre](https://cbmajestic.org/press/).
 
