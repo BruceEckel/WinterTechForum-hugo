@@ -4,10 +4,8 @@ weight: 130
 ---
 
 <p style="font-size:large;">
-The local urgent-care clinic is in Mount Crested Butte, open every day from
-9 am to 5 pm.
-<a href="https://www.gunnisonvalleyhealth.org/Our-Services/Mountain-Clinic.aspx">This Link</a>
-includes their phone number and a map. They accept most insurance.
+The [local urgent-care clinic](https://www.gunnisonvalleyhealth.org/Our-Services/Mountain-Clinic.aspx) is in Mount Crested Butte, open every day from
+9 am to 5 pm. They accept most insurance.
 </p>
 
 ## Altitude
@@ -20,8 +18,8 @@ can't just drink a glass and fix it. Prep by starting to drink water early and
 during your travel. It's worth having to stop and pee more often while you're
 heading up from Denver.
 
-2. The health food store (across the street from Camp4 Coffee has this stuff called "Accli-mate" that's supposed to help.
-Maybe it does, it's "alternative" so you never know for sure.
+2. [The health food store](https://g.co/kgs/GGkMTHP) (across the street from Camp4 Coffee) has this stuff called "Accli-mate" that's supposed to help.
+Maybe it does; it's "alternative" so you never know for sure.
 
 3. Apply sunscreen to any exposed parts of skin. Without it, you won't get
 tanned, you'll get burned, and it can happen when you least expect it.
