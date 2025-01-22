@@ -43,7 +43,7 @@ Session 1
 
 - **Evening** Groups go to dinner or informal barbecue at Bruce's
 
-- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall (Public welcome)
+- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Center (Public welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -69,7 +69,7 @@ Tuesday
 
 - **Evening** Groups go to dinner or informal barbecue at Bruce's
 
-- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Parish Hall (Public welcome)
+- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Center (Public welcome)
 
 - Form groups for Hackathon day
 
@@ -87,7 +87,7 @@ at [Evolve Coworking](https://www.evolvework.co/)**
 
 - **Evening** Groups go to dinner or informal barbecue at Bruce's
 
-- **8pm** Hackathon Showcase Lightning Talks at the Parish Hall (Public welcome)
+- **8pm** Hackathon Showcase Lightning Talks at the Center (Public welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 

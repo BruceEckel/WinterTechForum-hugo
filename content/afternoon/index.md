@@ -17,10 +17,9 @@ responsibility, although groups are likely to form. See
 skiing, snowshoeing, and snow biking, and can be arranged through the
 [Crested Butte Nordic Center](https://cbnordic.org/).
 
-- **Afternoon Workshops**. People often spontanously decide to create their
-own workshops to investigate a particular idea or technology. Rooms at the
-Parish Hall are usually available, or you can hold them at one of the rental
-houses or in my living room (which has a Chromcast-enabled TV).
+- **Afternoon Workshops**. People often spontaneously decide to create their
+own workshops to investigate a particular idea or technology. These typically happen at a rental
+house or in my living room (which has a Chromecast-enabled TV). Rooms at [Evolve Coworking](https://www.evolvework.co/) are also usually available.
 
 - **Rest and Recovery**. In case you need to get used to the altitude, or
 to work on your own, or just recover from life.

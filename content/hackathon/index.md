@@ -12,11 +12,10 @@ technology.
 All you need is a group that wants to explore a topic. You'll probably start
 forming groups on Monday and Tuesday, as you discover other people's interests.
 
-The Parish Hall is unavailable during the day, until 8pm. Hackathon projects
-take place in rental houses, at Bruce's house, or at [Evolve
+Hackathon projects take place in rental houses, at Bruce's house, or at [Evolve
 Coworking](https://www.evolvework.co/).
 
 The evening of the hackathon, results are presented in the *Hackathon Showcase
-Lightning Talks* at 8pm at the Parish Hall.
+Lightning Talks* at 8pm at the King Room of the Center for the Arts.
 
 - Hackathon presentations are **limited to 10 minutes.**

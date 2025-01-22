@@ -14,8 +14,8 @@ make arrangements with other attendees to rent houses. Usually one person
 finds the house, and then others come and fill it up.
 <a href="https://www.google.com/search?q=vacation+rentals+crested+butte&oq=vacation+rentals+cre&aqs=chrome.0.0j69i57j0l4.7893j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Here's a start</a> if you're looking for a house.
 
-There's a brand new collection of short-term lodgings in town. They are one block away from the beautifully updated Clark's Market, and a couple of blocks from the Parish Hall:
-https://www.cbprop.com/academy-place-info/.
+There's a brand new collection of short-term lodgings in town. They are one block away from the beautifully updated Clark's Market, and a couple of blocks from the Center:
+<https://www.cbprop.com/academy-place-info/>.
 Pricey, but very nice and with different room options (I saw one room with 4 bunk beds) so the prices could be different depending on the fanciness of the sleeping situation you choose.
 
 ### Other Lodging

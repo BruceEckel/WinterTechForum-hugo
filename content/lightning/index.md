@@ -9,7 +9,7 @@ contrary, you are encouraged to talk about something you do that inspires you.
 Some of the most memorable presentations have had little or nothing to do with
 computers.
 
-There will be a sheet in the Parish Hall for you to add your name if you'd
+There will be a sheet in the Center for you to add your name if you'd
 like to give a talk. You might feel reluctant at first and want to take a
 "wait and see" attitude. Don't wait--lightning talk slots often fill up early
 and when you see how casual and fun they are you'll be sorry if you miss out.
@@ -39,7 +39,7 @@ five minutes!
 6. **Connection**. They let other people at the conference know more about
 you, and are good ways to start more conversations.
 
-We have a projector and screen available, but you're free to bring any other
+The King Room has a TV monitor, but you're free to bring any other
 presentation aids you'd like.
 
 In the past we've captured talks and posted them on YouTube. Let us know ahead
