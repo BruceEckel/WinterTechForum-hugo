@@ -6,15 +6,3 @@ weight: 100
 The conference is held at the [Crested Butte Center for the Arts](https://crestedbuttearts.org/plan/directions/).
 
 The Friday night banquet is at the [Crested Butte Museum](https://crestedbuttemuseum.com/visit-us/).
-
----
-
-Elk Avenue is our "main street," where you'll find most of the shops and
-restaurants.
-
-![Overview](OverView.png)
-
-One way to find it is to find Camp4 Coffee, then go east a block on the alley
-next to Camp4:
-
-![Closeup](Closeup.png)
