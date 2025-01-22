@@ -12,13 +12,12 @@ hiking and mountain biking in the summer.
 We hold the event in town, and free buses run up to the ski mountain
 every 15 minutes.
 
-You should try to stay
-downtown and not on the mountain, so you can just walk everywhere.
+Try to stay downtown and not on the mountain, so you can just walk everywhere.
 See <a href = "/lodging">Lodging</a> for details.
 
 High-speed Internet is available in the conference location and at
 several locations within easy walking distance of the conference
-location. Many lodgings provide Internet access but you should ask to
+location. Most lodgings provide Internet access but you should ask to
 make sure.
 
 **Restaurants:**

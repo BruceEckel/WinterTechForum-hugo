@@ -3,11 +3,10 @@ title: Venue
 weight: 100
 ---
 
-The conference is held at the [Crested Butte Center for the Arts](https://crestedbuttearts.org/plan/directions/).
-
-The Friday night banquet is at the [Crested Butte Museum](https://crestedbuttemuseum.com/visit-us/).
-
----
+The conference is held at the **Parish Hall** of the Queen of All Saints
+Catholic Church, 401 Sopris Ave. The church itself has a dramatic arched copper
+roof, and the parish hall is the building behind it, across the parking lot
+from the church.
 
 Elk Avenue is our "main street," where you'll find most of the shops and
 restaurants.
@@ -18,3 +17,5 @@ One way to find it is to find Camp4 Coffee, then go east a block on the alley
 next to Camp4:
 
 ![Closeup](Closeup.png)
+
+
