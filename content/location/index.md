@@ -9,8 +9,8 @@ hiking and mountain biking in the summer.
 
 <!-- -   [Photos](http://mindviewllc.com/Seminars/Locations/CrestedButte/MoreCrestedButtePhotos.html) -->
 
-We hold the event in town, and free buses run up to the ski mountain
-every 15 minutes.
+We hold the event <a href = "/venue">in town at the Center for the Arts</a>.
+Free buses run up to the ski mountain every 15 minutes.
 
 Try to stay downtown and not on the mountain, so you can just walk everywhere.
 See <a href = "/lodging">Lodging</a> for details.
