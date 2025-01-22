@@ -11,7 +11,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 [params]
 # General information
 # author = "Bruce Eckel"
-description = "A Self-Organizing Open Spaces Conference."
+description = "A Self-Organizing Open Spaces Conference & Retreat"
 
 logo = "/images/wtf-web-nodate.jpg"
 favicon = "images/wtf-favicon-96.ico"
