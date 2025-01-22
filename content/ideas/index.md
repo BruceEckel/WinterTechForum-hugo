@@ -27,7 +27,6 @@ for pausing or turning off the feed). Needs to be something that can be sent out
 - Reserved slots at the end of the week, for spontaneous sessions
 - Book the gift of fear
 - Structure of discussion, to get everyone involved
-- Hello from the magic tavern podcast
 - Trello as OS board
 - Mission to zyxx podcast
 - ModernAgile.com

@@ -29,7 +29,7 @@ particularly painful burn.
 
 4. Nasal comfort: It's super dry at altitude and that messes with your nasal
 cavities. If you have a neti pot, bring that (they're usually available at the
-Crested Butte health food store and sometimes even the grocery store, but
+[The health food store](https://g.co/kgs/GGkMTHP) sometimes even the grocery store, but
 bring your own to be sure). That produces a lot of relief. I've recently
 discovered that A&D ointment works wonders (with or without a neti pot) if you
 regularly apply it to the inside of your nose using your little finger. This
