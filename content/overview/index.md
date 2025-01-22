@@ -8,7 +8,7 @@ Organized by Bruce Eckel<br/>
 <span style="font-size:150%">March 3-7 2025</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
-- Price: $750 &nbsp;&nbsp;&nbsp;<a href="/registration">Register Here</a>
+- Price: $750 &nbsp;&nbsp;&nbsp;[Register Here](/registration)
 
 - We are now holding the conference in the beautiful [Center for The Arts](https://crestedbuttearts.org/), including the evening lightning talks/hackathon day presentations. The opening session and the evening sessions will be in the King Community Room (top floor, north end).
 
@@ -16,9 +16,9 @@ Organized by Bruce Eckel<br/>
 "schedule/index.md" >}}) the evening of the 2nd and the morning of the 8th.
 
 - If you've previously attended any Crested Butte events and need a
-break on the fee, <a href="/contact">make a request</a>. Don't let the fee be the reason you can't attend.
+break on the fee, [make a request](/contact). Don't let the fee be the reason you can't attend.
 
-- <a href="/registration">Registration is open!</a>
+- [Registration is open!](/registration)
 
 ***
 

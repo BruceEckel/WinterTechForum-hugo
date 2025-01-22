@@ -9,24 +9,6 @@ instruction can be arranged. There is also cross-country skiing
 
 - REGISTER EARLY: This helps us plan
 
-<!-- - REGISTER EARLY: We have 30 reservations for the Friday night Yurt dinner
-  (ski/snowshoe to the Yurt for a catered dinner). Everything for this (including equipment and ski pass) is included in the conference fee.
-  However, unused tickets must be released on February 12.
-  You can still register at the last minute, but if you wait until then you
-  will not have a Yurt dinner.
-  Details [here](https://cbnordic.org/things-to-do/magic-meadows-yurt/yurt-dinners/). -->
-
-<!-- Step 1:
--------
-
-Join the [Conference
-Newsgroup](http://groups.google.com/group/JavaPosseRoundup) (called "Java
-Posse Roundup" for historical reasons). General announcements are made through
-the newsgroup. Make sure you use the email address where you would like to
-receive information about the conference. That is, use the attendee's address
-and not an admin's address. **This address will not be used for anything
-except the conference.** -->
-
 Step 1
 -------
 
