@@ -10,7 +10,7 @@ Organized by Bruce Eckel<br/>
 
 - Price: $750 &nbsp;&nbsp;&nbsp;<a href="/registration">Register Here</a>
 
-- We are now holding the conference in the beautiful [Center for The Arts](https://crestedbuttearts.org/){:target="_blank"}, including the evening lightning talks/hackathon day presentations. The opening session and the evening sessions will be in the King Community Room (top floor, north end).
+- We are now holding the conference in the beautiful [Center for The Arts](https://crestedbuttearts.org/), including the evening lightning talks/hackathon day presentations. The opening session and the evening sessions will be in the King Community Room (top floor, north end).
 
 - When scheduling, please [note that there are events]({{< relref
 "schedule/index.md" >}}) the evening of the 2nd and the morning of the 8th.
