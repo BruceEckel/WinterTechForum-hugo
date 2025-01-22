@@ -39,11 +39,11 @@ Session 1
 
 - **11:10-12:00** Session 2
 
-- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
 - **Evening** Groups go to dinner or informal barbecue at Bruce's
 
-- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Center (Public welcome)
+- **8pm** [Lightning Talks](/lightning) at the Center (Public welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -65,11 +65,11 @@ Tuesday
 
 - **11:40-12:30** Session 5
 
-- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
 - **Evening** Groups go to dinner or informal barbecue at Bruce's
 
-- **8pm** [Lightning Talks]({{< relref "lightning/index.md" >}}) at the Center (Public welcome)
+- **8pm** [Lightning Talks](/lightning) at the Center (Public welcome)
 
 - Form groups for Hackathon day
 
@@ -83,7 +83,7 @@ Wednesday: Hackathon day
 **Hackathon projects usually take place in rental houses, at Bruce's house, or
 at [Evolve Coworking](https://www.evolvework.co/)**
 
-[Hackathon Day Details]({{< relref "hackathon/index.md" >}})
+[Hackathon Day Details](/hackathon)
 
 - **Evening** Groups go to dinner or informal barbecue at Bruce's
 
@@ -109,7 +109,7 @@ Thursday
 
 - **11:40-12:30** Session 8
 
-- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
 - **Evening** Progressive Dinner at Rental Houses
 
@@ -133,7 +133,7 @@ Friday
 
 - **11:40-12:30** Closing Session
 
-- **Afternoon** Lunch/free time/[Afternoon Activities]({{< relref "afternoon/index.md" >}})
+- **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
 - **Evening** Group Dinner at location TBA
 
