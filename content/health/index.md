@@ -3,8 +3,9 @@ title: Health
 weight: 130
 ---
 
-> **The [local urgent-care clinic](https://www.gunnisonvalleyhealth.org/Our-Services/Mountain-Clinic.aspx)
-> is in Mount Crested Butte, open every day from 9 am to 5 pm. They accept most insurance.**
+> **The [local urgent-care clinic](https://www.gunnisonvalleyhealth.org/Our-Services/Mountain-Clinic.aspx)**
+> **is in Mount Crested Butte, open every day from 9 am to 5 pm. They accept most insurance.**
+
 ---
 
 ## Altitude
