@@ -7,7 +7,7 @@ Crested Butte is a small resort town located at about 9000 feet, near
 the continental divide. It is known for its skiing in the winter and
 hiking and mountain biking in the summer.
 
-We hold the event [in town at the Center for the Arts](/venue).
+We hold the event [in town at the Center for the Arts](https://crestedbuttearts.org/plan/directions/).
 Free buses run up to the ski mountain every 15 minutes.
 
 Try to stay downtown and not on the mountain, so you can just walk everywhere.
