@@ -1,0 +1,29 @@
+I have four rooms, titled "King", "Hawk", "Jones Dance", and "Art Gallery".
+I want to schedule them on Monday, Tuesday, Thursday and Friday.
+Each Day should have its own table in the spreadsheet.
+For each day, I want the columns to have the room names, and the rows to have the times.
+I want the available room+time-slots to have open space of 5 lines so that anyone can fill in that slot, via their phone through the web.
+
+# Monday
+
+Conference Overview: 9am - 9:50am in King Room (all other rooms blocked off)
+Session 1: 9:50am-10:40am
+Session 2: 11:10am-12:00pm
+
+# Tuesday
+
+Session 3: 9am-9:50am
+Session 4: 10:20am-11:10am
+Session 5: 11:40am-12:30am
+
+# Thursday
+
+Session 6: 9am-9:50am
+Session 7: 10:20am-11:10am
+Session 8: 11:40am-12:30am
+
+# Friday
+
+Session 9: 9am-9:50am
+Session 10: 10:20am-11:10am
+Closing Session: 11:40am-12:30pm in King Room (all other rooms blocked off)
