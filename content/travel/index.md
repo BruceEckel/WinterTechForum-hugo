@@ -70,7 +70,7 @@ weight: 110
     Crested Butte but you will probably want to have someone pick you up
     (announce on Slack).
 
-1. There are two return buses from Crested Butte: an early one at 5:15 am and a later one that leaves at 1:30pm.
+1. There are two return buses from Crested Butte to Denver: an early one at 5:15 am and a later one that leaves at 1:30pm.
    The early bus gets you into Union Station at 10:50 am which is enough time for many
    afternoon flights. The light rail to the airport leaves every 15 minutes, so
     assume you will get to the airport around noon.
