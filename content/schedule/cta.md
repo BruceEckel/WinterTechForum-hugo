@@ -1,6 +1,7 @@
 ---
 title: Abbreviated CTA Schedule
 weight: 40
+url: /schedule/cta/
 ---
 
 ## Conference usage of the Center for the Arts
