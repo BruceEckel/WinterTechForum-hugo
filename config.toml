@@ -129,9 +129,3 @@ weight = 160
 name = "Ideas"
 url = "ideas/"
 weight = 170
-
-[blackfriday]
-smartypants = true
-fractions = true
-smartDashes = true
-plainIDAnchors = true
