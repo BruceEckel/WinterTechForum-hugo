@@ -20,6 +20,8 @@ break on the fee, [make a request](/contact). Don't let the fee be the reason yo
 
 - [Registration is open!](/registration)
 
+- [Activity Release Form](/release-form)
+
 ***
 
 - *I wanted to let you know how much I thoroughly enjoyed the week I spent in Crested Butte for the WTF conference. Thanks for helping to organize such a wonderful conference and bringing together such a great group of people. It was exciting to see how a group left unto themselves, can self organise and set out on a meaningful course. This spirit of the event really resonated with me and I'm looking forward to continuing this journey thoughout the year.* -- Will Mooney
