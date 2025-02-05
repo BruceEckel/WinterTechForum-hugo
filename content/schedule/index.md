@@ -25,14 +25,16 @@ have colorful lights on, as well.
 
 ***********************************
 
+> All Conference Dessions, Lightning Talks and the Hackday Showcase Lightning Talks are held at the Center for the Arts (CTA)
+
 Monday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
   There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
-- **9am**\
-Conference Overview\
+- **9am** CTA King Room \
+Conference Overview \
 Introduction to Open Spaces\
 Initial talk topics and organization\
 Session 1
@@ -43,7 +45,7 @@ Session 1
 
 - **Evening** Groups go to dinner or informal barbecue at Bruce's
 
-- **8pm** [Lightning Talks](/lightning) at the Center (Public welcome)
+- **8pm** [Lightning Talks](/lightning), CTA King Room (Public Welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -69,7 +71,7 @@ Tuesday
 
 - **Evening** Groups go to dinner or informal barbecue at Bruce's
 
-- **8pm** [Lightning Talks](/lightning) at the Center (Public welcome)
+- **8pm** [Lightning Talks](/lightning), CTA King Room (Public Welcome)
 
 - Form groups for Hackathon day
 
@@ -87,7 +89,7 @@ at [Evolve Coworking](https://www.evolvework.co/)**
 
 - **Evening** Groups go to dinner or informal barbecue at Bruce's
 
-- **8pm** Hackathon Showcase Lightning Talks at the Center (Public welcome)
+- **8pm** Hackathon Showcase Lightning Talks, CTA King Room (Public Welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -131,19 +133,11 @@ Friday
 
 - **11:10-11:40** Break
 
-- **11:40-12:30** Closing Session
+- **11:40-12:30** Closing Session, CTA King Room
 
 - **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
-- **Evening** Group Dinner at location TBA
-
-<!-- - **Evening** 4:30pm: Meet at the Nordic center to get equipment and ski or showshoe
-  to the Yurt for a catered dinner. Everything for this (including equipment and
-  ski pass) is included in the conference fee.
-  Details [here](https://cbnordic.org/things-to-do/magic-meadows-yurt/yurt-dinners/). -->
-
-<!-- Ski/Snowshoe around the free Town Loop, then to catered dinner at
-  the Historic Train Depot, 716 Elk Ave. -->
+- **Evening** Banquet at [Crested Butte Museum](https://crestedbuttemuseum.com/)
 
 - **Followed by:** Games and hanging out at rental houses
 
