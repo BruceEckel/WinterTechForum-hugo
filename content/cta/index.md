@@ -1,9 +1,7 @@
 ---
-title: Abbreviated CTA Schedule
+title: Center for the Arts Conference Usage
 outputs: ["html"]
 ---
-
-## Conference usage of the Center for the Arts
 
 ### Monday
 
