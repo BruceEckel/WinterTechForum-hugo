@@ -25,7 +25,7 @@ have colorful lights on, as well.
 
 ***********************************
 
-> All Conference Dessions, Lightning Talks and the Hackday Showcase Lightning Talks are held at the Center for the Arts (CTA)
+> All Conference Sessions, Lightning Talks and the Hackday Showcase Lightning Talks are held at the Center for the Arts (CTA)
 
 Monday
 ------
