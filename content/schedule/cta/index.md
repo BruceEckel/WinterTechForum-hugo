@@ -1,6 +1,6 @@
 ---
 title: Abbreviated CTA Schedule
-weight: 40
+outputs: ["html"]
 ---
 
 ## Conference usage of the Center for the Arts
