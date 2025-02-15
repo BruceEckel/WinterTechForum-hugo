@@ -25,17 +25,16 @@ There are games in the rental houses, and spontaneous conversations always happe
 From waking to falling into bed, you are only bored if you want to be.
 
 Sound exhausting?
-Traditional conference often are, but most people come away recharged.
+Traditional conferences often are, but most people come away recharged.
 And that's our aim, that you leave full of energy!
 
 ## Understanding the Conference
 
 We do our best to provide information via two primary sources:
 
-1. The web site: <https://www.wintertechforum.com/>
-2. The WTF Slack: join [here](https://join.slack.com/t/wtfconf/shared_invite/zt-303widqu9-3n_LHLFmm6IvZygHpXLoiQ)
+1. [The web site](https://www.wintertechforum.com/)
+2. [The WTF Slack](https://join.slack.com/t/wtfconf/shared_invite/zt-303widqu9-3n_LHLFmm6IvZygHpXLoiQ)
 
-If you can't find the information on the web site, ask on Slack.
-It's full of friendly folks who have attended before.
+If you can't find the information on the web site, ask on Slack; It's full of friendly folks who have attended before.
 Slack is also where we communicate during the conference, for pretty much everything.
-If you can't get the answers you need, you can always email Bruce directly: <https://www.wintertechforum.com/contact/>
+If you can't get the answers you need, you can always reply to this email.
