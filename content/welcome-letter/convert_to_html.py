@@ -2,10 +2,8 @@
 # requires-python = ">=3.13"
 # dependencies = [
 #     "markdown",
-#     "pyperclip",
 # ]
 # ///
-import argparse
 import markdown
 import pyperclip
 
@@ -32,7 +30,7 @@ def strip_frontmatter(markdown_text):
 
 def convert_to_html(markdown_file):
   """
-  Converts a Markdown file to HTML and copies it to the clipboard.
+  Converts a Markdown file to HTML, converts "---" to em-dashes, and copies it to the clipboard.
 
   Args:
     markdown_file: Path to the Markdown file.
@@ -42,6 +40,7 @@ def convert_to_html(markdown_file):
       markdown_text = f.read()
 
     markdown_text = strip_frontmatter(markdown_text)
+    markdown_text = markdown_text.replace("---", "—") 
 
     html_text = markdown.markdown(markdown_text)
 
@@ -55,9 +54,4 @@ def convert_to_html(markdown_file):
     print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
-#   parser = argparse.ArgumentParser(description="Convert a Markdown file to HTML and copy to clipboard.")
-#   parser.add_argument("markdown_file", help="Path to the Markdown file.")
-#   args = parser.parse_args()
-
-#   convert_to_html(args.markdown_file)
-    convert_to_html("index.md")
+  convert_to_html("index.md")
