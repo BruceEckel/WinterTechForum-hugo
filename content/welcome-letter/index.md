@@ -1,10 +1,9 @@
 ---
-title: Welcome Letter
+title: Welcome to the Winter Tech Forum!
 type: index
 weight: 11
 ---
 
-Welcome to the [Winter Tech Forum](https://www.wintertechforum.com/)!
 Most people find this the best---and most unusual---conference experience of their life.
 The reason?
 Our primary goal is connection and participation.
