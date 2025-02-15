@@ -1,7 +1,7 @@
 ---
 title: Welcome Letter
 type: index
-weight: 9
+weight: 11
 ---
 
 Welcome to the [Winter Tech Forum](https://www.wintertechforum.com/)!
