@@ -41,6 +41,10 @@ github = "WinterTechForum"
 email = "mindviewinc@gmail.com"
 
 [[menu.main]]
+name = "Welcome Letter"
+url = "welcome-letter/"
+weight = 9
+
 name = "Overview"
 url = "overview/"
 weight = 10
