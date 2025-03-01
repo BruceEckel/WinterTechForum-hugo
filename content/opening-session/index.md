@@ -3,6 +3,8 @@ title: Notes for Opening Session
 weight: 160
 ---
 
+- These notes can be found under "opening" at the bottom of the WTF site sidebar
+
 - Wifi password
 
 - Open Spaces: creating discussion
@@ -33,8 +35,9 @@ weight: 160
 - Recording
   - Jabra Speak2 55
   - Seems to require a laptop, I couldn't get it to work with phones
-  - Software: search for and install "[Jabra Direct](https://www.jabra.com/software-and-services/jabra-direct)"
-  - You need recording software on your laptop
+  - Software: search for and install **Jabra Direct** at "[jabra.com/direct](https://www.jabra.com/direct)"
+  - You need recording software on your laptop. Two free ones are [Audacity](https://www.audacityteam.org/) and [Ardour](https://ardour.org/).
+  - Upload to ???
 
 - Altitude: See the [Health](/health) page.
   - The Fountain for IVs, Hyperbaric chamber in Gunnison, urgent care clinic at the ski area.
