@@ -64,11 +64,6 @@ weight: 160
 - Hackathon day
   - Tuesday after lightning talks: form groups and decide where to meet
 
-- Dinner Friday. I need to tell the caterer:
-  - Is there anyone not coming?
-  - Number of Vegetarians
-  - Dietary restrictions (she's going to make most everything gluten free)
-
 - Dinner: My house is available for group dinners; I'll often do that.
   The Wooden Nickel and Elk Avenue Prime are expensive tourist traps.
   Sunflower is the best place in town.
