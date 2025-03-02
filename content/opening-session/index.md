@@ -84,3 +84,5 @@ weight: 160
 - Banquet Friday
 
 - Saturday breakfast
+
+- Introductions: Your name, where you came from, one interesting thing about you
