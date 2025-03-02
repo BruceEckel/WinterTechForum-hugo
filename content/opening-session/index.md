@@ -34,7 +34,7 @@ weight: 160
 
 - Recording
   - Jabra Speak2 55
-  - Seems to require a laptop, I couldn't get it to work with phones
+  - Seems to require a laptop, I couldn't get it to work with phones (they have bluetooth though)
   - Software: search for and install **Jabra Direct** at "[jabra.com/direct](https://www.jabra.com/direct)"
   - You need recording software on your laptop. Two free ones are [Audacity](https://www.audacityteam.org/) and [Ardour](https://ardour.org/).
   - Upload to ???
