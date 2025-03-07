@@ -8,6 +8,7 @@ weight: 160
 - Wifi password
 
 - Open Spaces: creating discussion
+  - Use the Google Sheets board! (Link posted on Slack) -- Load Google docs app on your phne
   - Post-its, merging similar sessions, moving sessions around
   - The online board is the "single point of truth"
   - Law of two feet: If you're thinking it'll be over soon...
@@ -35,7 +36,7 @@ weight: 160
 - Recording
   - Jabra Speak2 55
   - Seems to require a laptop, I couldn't get it to work with phones (they have bluetooth though)
-  - Software: search for and install **Jabra Direct** at "[jabra.com/direct](https://www.jabra.com/direct)"
+  - Software: search for and install **Jabra Direct** at [jabra.com/direct](https://www.jabra.com/direct)
   - You need recording software on your laptop. Two free ones are [Audacity](https://www.audacityteam.org/) and [Ardour](https://ardour.org/).
   - Upload to ???
 
@@ -84,5 +85,7 @@ weight: 160
 - Banquet Friday
 
 - Saturday breakfast
+
+- Board of directors session
 
 - Introductions: Your name, where you came from, one interesting thing about you
