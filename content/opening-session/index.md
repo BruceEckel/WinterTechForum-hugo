@@ -7,6 +7,8 @@ weight: 160
 
 - Wifi password
 
+- Bathrooms: more as you go down
+
 - Open Spaces: creating discussion
   - Use the Google Sheets board! (Link posted on Slack) -- Load Google docs app on your phne
   - Post-its, merging similar sessions, moving sessions around
