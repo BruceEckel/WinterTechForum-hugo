@@ -5,23 +5,23 @@ outputs: ["html"]
 
 ### Monday
 
-- **9am** to **12:00pm**
-- **8pm** to **10:00pm**
+- **9am** to **12:30pm** (King, Hawk, Jones, Art)
+- **8pm** to **10:00pm** (King)
 
 ### Tuesday
 
-- **9am** to **12:30pm**
-- **8pm** to **10:00pm**
+- **9am** to **12:30pm** (King, Hawk, Jones, Art)
+- **8pm** to **10:00pm** (King)
 
 ### Wednesday
 
-- **8pm** to **10:30pm**
+- **8pm** to **10:30pm** (King)
 
 ### Thursday
 
-- **9am** to **12:30pm**
-- **8pm** to **10:00pm**
+- **9am** to **12:30pm** (King, Hawk, Jones, Art)
+- **8pm** to **10:00pm** (King)
 
 ### Friday
 
-- **9am** to **12:30pm**
+- **9am** to **12:30pm** (King, Hawk, Jones, Art)
