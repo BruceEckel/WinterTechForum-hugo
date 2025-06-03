@@ -6,7 +6,7 @@ outputs: ["html"]
 ### Monday
 
 - **9am** to **12:30pm** (King, Hawk, Jones, Art)
-- **8pm** to **10:00pm** (King)
+- **8pm** to **10:00pm** (King) (**Or Thursday**)
 
 ### Tuesday
 
@@ -20,7 +20,7 @@ outputs: ["html"]
 ### Thursday
 
 - **9am** to **12:30pm** (King, Hawk, Jones, Art)
-- **8pm** to **10:00pm** (King)
+- **8pm** to **10:00pm** (King) (**Or Monday**)
 
 ### Friday
 
