@@ -16,7 +16,7 @@ Join the [Winter Tech Forum Slack channel](https://join.slack.com/t/wtfconf/shar
 You can post questions to the Slack channel, arrange ride sharing, group house
 rentals, etc.
 
-Step 2: [Payment] (TBA)
+Step 2: Payment (not open yet)
 
 Step 3: Print and sign the [Activity Release Form](/release-form) and bring it with you (Forms will also be available on site)
 
