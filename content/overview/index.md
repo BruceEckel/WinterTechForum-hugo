@@ -5,7 +5,7 @@ weight: 10
 ---
 
 Organized by Bruce Eckel<br/>
-<span style="font-size:150%">March 3-7 2025</span>
+<span style="font-size:150%">March 2-6 2026</span>
 <span style="font-size:75%"><br/>(Formerly The Java Posse Roundup)</span>
 
 - Price: $750 &nbsp;&nbsp;&nbsp;[Register Here](/registration)
