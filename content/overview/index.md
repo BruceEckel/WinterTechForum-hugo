@@ -13,12 +13,12 @@ Organized by Bruce Eckel<br/>
 - We are now holding the conference in the beautiful [Center for The Arts](https://crestedbuttearts.org/), including the evening lightning talks/hackathon day presentations. The opening session and the evening sessions will be in the King Community Room (top floor, north end).
 
 - When scheduling, please [note that there are events]({{< relref
-"schedule/index.md" >}}) the evening of the 2nd and the morning of the 8th.
+"schedule/index.md" >}}) the evening of the 1st and the morning of the 7th.
 
 - If you've previously attended any Crested Butte events and need a
 break on the fee, [make a request](/contact). Don't let the fee be the reason you can't attend.
 
-- [Registration is open!](/registration)
+- [Registration](/registration)
 
 - [Activity Release Form](/release-form)
 
