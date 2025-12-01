@@ -9,14 +9,11 @@ instruction can be arranged. There is also cross-country skiing
 
 - REGISTER EARLY: This helps us plan
 
-Step 1
--------
-
-Join the [Winter Tech Forum Slack channel](https://join.slack.com/t/wtfconf/shared_invite/enQtNDk5MjUyMTc4MjkxLWUzMjkxNDM1MGM3MDU2MDJhYTRlODY5MjljOWNlYmQyMmNkMGRmMzlhMWE1ZmQ4NmIyY2JmODhkNWI0NDIyM2Y).
+Step 1: Join the [Winter Tech Forum Slack channel](https://join.slack.com/t/wtfconf/shared_invite/enQtNDk5MjUyMTc4MjkxLWUzMjkxNDM1MGM3MDU2MDJhYTRlODY5MjljOWNlYmQyMmNkMGRmMzlhMWE1ZmQ4NmIyY2JmODhkNWI0NDIyM2Y).
 You can post questions to the Slack channel, arrange ride sharing, group house
 rentals, etc.
 
-Step 2: Payment (not open yet)
+Step 2: [Payment](https://link.waveapps.com/2ep8jy-4tc6fx)
 
 Step 3: Print and sign the [Activity Release Form](/release-form) and bring it with you (Forms will also be available on site)
 
