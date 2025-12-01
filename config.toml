@@ -51,7 +51,7 @@ url = "welcome-letter/"
 weight = 11
 
 [[menu.main]]
-name = "2019 Photos"
+name = "Photos"
 url = "https://photos.app.goo.gl/ssVAP6nDTTLyqaF2A"
 weight = 15
 
