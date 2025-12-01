@@ -25,13 +25,12 @@ have colorful lights on, as well.
 
 ***********************************
 
-> All Conference Sessions, Lightning Talks and the Hackday Showcase Lightning Talks are held at the Center for the Arts (CTA)
+> All Conference Sessions, Lightning Talks, and the Hackday Showcase Lightning Talks are held at the Center for the Arts (CTA)
 
 Monday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9am** CTA King Room \
 Conference Overview \
@@ -43,9 +42,7 @@ Session 1
 
 - **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
-- **Evening** Groups go to dinner or informal barbecue at Bruce's
-
-- **8pm** [Lightning Talks](/lightning), CTA King Room (Public Welcome)
+- **Evening** Banquet at [Crested Butte Museum](https://crestedbuttemuseum.com/)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -55,7 +52,6 @@ Tuesday
 -------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 3
 
@@ -99,7 +95,6 @@ Thursday
 --------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 6
 
@@ -113,7 +108,7 @@ Thursday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
-- **Evening** Progressive Dinner at Rental Houses
+- **8pm** [Lightning Talks](/lightning), CTA King Room (Public Welcome)
 
 - **Followed by:** Games and hanging out at rental houses
 
@@ -123,7 +118,6 @@ Friday
 ------
 
 - **Breakfast** Post your plans on Slack if you want others to join you.
-  There will be coffee and toast bar at Bruce's house starting at 7:45am.
 
 - **9-9:50am** Session 9
 
@@ -137,9 +131,7 @@ Friday
 
 - **Afternoon** Lunch/free time/[Afternoon Activities](/afternoon)
 
-- **Evening** Banquet at [Crested Butte Museum](https://crestedbuttemuseum.com/)
-
-- **Followed by:** Games and hanging out at rental houses
+- **Evening** Progressive Dinner at Rental Houses
 
 ***********************************
 
