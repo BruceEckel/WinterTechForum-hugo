@@ -6,27 +6,28 @@ weight: 160
 - These notes can be found under "opening" at the bottom of the WTF site sidebar
 
 - Wifi password
-
 - Bathrooms: more as you go down
+- Please wear your badge, can store it in the cupboards.
+- Under 18 sign release, have a professor sign. Alcohol and liability
+
+- (Demonstrate recording, start)
 
 - Open Spaces: creating discussion
-  - Use the Google Sheets board! (Link posted on Slack) -- Load Google docs app on your phne
-  - Post-its, merging similar sessions, moving sessions around
-  - The online board is the "single point of truth"
+  - Bill will demonstrate the app
+  - A session can be anything you're interested in, or want to know about. If only one person shows up you'll have a discussion.
+  - The online board & Slack is the "single point of truth." You can almost always do things with other people if you want. Announce if you're going to breakfast, dinner etc.
   - Law of two feet: If you're thinking it'll be over soon...
-  - Law of two ears and one mouth
-  - Invert your participation mode
-  - Butterflies (social connectors) and bumblebees (idea pollinators).
-  - Eyes forward conference presentation is about the happy path. We talk about problems and challenges
+  - Invert your participation mode. Two ears and one mouth.
+  - Try not to interrupt BUT if you don't understand something, interrupt and say so. Don't let the discussion get away from you.
   - It's OK to try any experiment via post-it. Example: one person requested help on python.
-    Even if only one person shows up you'll have an experience. If no one shows up,
-    you might have scheduled it against something that people really
-    wanted to attend&mdash;it doesn't mean your idea was bad.
 
 - Afternoon sessions
   - Skiing, etc
   - Workshops (again, be creative and bold and try experiments that might meet
-    your needs. If you need it, chances are someone else will too).
+    your needs. If you need it, chances are someone else will too). Post on app as "Activity" with address
+
+- Lightning talks
+  - We assume it's OK to record lightning talks for Youtube unless you say otherwise. We might just do audio.
 
 - Center for the Arts
   - We want to leave a good impression with the center so we can keep using this great building
@@ -35,59 +36,31 @@ weight: 160
   - We can't bring alcohol into the building (big fine)
   - Take off shoes for Jones Dance Room
 
-- Recording
-  - Jabra Speak2 55
-  - Seems to require a laptop, I couldn't get it to work with phones (they have bluetooth though)
-  - Software: search for and install **Jabra Direct** at [jabra.com/direct](https://www.jabra.com/direct)
-  - You need recording software on your laptop. Two free ones are [Audacity](https://www.audacityteam.org/) and [Ardour](https://ardour.org/).
-  - Upload to ???
 
 - Altitude: See the [Health](/health) page.
   - The Fountain for IVs, Hyperbaric chamber in Gunnison, urgent care clinic at the ski area.
   - Let someone know soon if you're having trouble, don't wait until it's bad.
   - Take Ibuprofen if you have the slightest headache, to catch it early.
-  - Alcohol and other things.
-
-- Use Slack for everything
-  - You can almost always do things with other people if you want.
+  - Alcohol is dehydrating, recommend avoiding it if you think you might have altitude issues.
 
 - Code of conduct, contact persons
   - Pronouns and whether photos are ok on your badge
   - Private feedback, public reflection
     - Would you be interested in some difficult feedback?
-  - Explicit permission to take care of yourself.
-    Law of two feet writ large.
-
-- Please wear your badge
-
-- Lightning talks
-  - No Tuesday signups until Tuesday morning, new folks have priority
-  - We assume it's OK to record lightning talks for Youtube unless you say otherwise
+  - Explicit permission to take care of yourself. Law of two feet writ large.
 
 - Hackathon day
-  - Tuesday after lightning talks: form groups and decide where to meet
+  - Tuesday after lightning talks: form groups and decide where to meet, post on app with address
 
-- Dinner: My house is available for group dinners; I'll often do that.
-  The Wooden Nickel and Elk Avenue Prime are expensive tourist traps.
-  Sunflower is the best place in town.
-  The Breadery is good.
-  I've heard no good things about the Brohaus.
-  I haven't been to SoupCon in a long time (expensive).
-  Thai Smile (not on Elk) is the good Thai restaurant.
-
-- Lunch: we recommend Momo's, Teocalli Tamale for good and fast. Ryce and Pita's in Paradise.
+- Questions about restaurants: ask on slack
+  Lunch: we recommend Momo's, Teocalli Tamale for good and fast. Ryce and Pitas in Paradise.
   The Gas Cafe makes good hamburgers.
-  Breakfast & Lunch at McGill's is good.
+  Breakfast & Lunch at McGill's is good. Paradise is good but slower.
 
-- Game nights: announce if a game might be offensive, law of two feet.
+- Game nights: post on app with address.
 
-- Progressive Dinner Thursday
-  - Group picture on Thursday during a morning session break
-
-- Banquet Friday
+- Progressive Dinner Friday
 
 - Saturday breakfast
-
-- Board of directors session
 
 - Introductions: Your name, where you came from, one interesting thing about you
