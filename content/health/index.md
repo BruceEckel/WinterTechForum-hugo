@@ -30,8 +30,7 @@ particularly painful burn.
 4. Nasal comfort: It's super dry at altitude and that messes with your nasal
 cavities. If you have a neti pot, bring that (they're usually available at the
 [The health food store](https://g.co/kgs/GGkMTHP) sometimes even the grocery store, but
-bring your own to be sure). That produces a lot of relief. I've recently
-discovered that A&D ointment works wonders (with or without a neti pot) if you
+bring your own to be sure). That produces a lot of relief. A&D ointment works wonders (with or without a neti pot) if you
 regularly apply it to the inside of your nose using your little finger. This
 seems to prevent most problems.\
 \
@@ -48,9 +47,8 @@ if you feel the slightest headache take them (don't try to tough it out or
 hope it will go away). By catching it early (and of course continuing your
 water regimen) you can head it off.
 
-6. If you're in distress, there are [medical-grade hyperbaric chambers in Gunnison](https://www.google.com/maps/place/Rocky+Mountain+Hyperbaric+Institute-Gunnison/@38.5526952,-106.9282212,17z/data=!3m1!4b1!4m6!3m5!1s0x873f933df2fa0c1d:0x719ec58af6c2fe4d!8m2!3d38.552691!4d-106.9256463!16s%2Fg%2F11lgy4ccjn?entry=ttu&g_ep=EgoyMDI1MDExNS4wIKXMDSoASAFQAw%3D%3D).
-If you're really feeling the altitude, don't wait! Also, the urgent care clinic (at the top of
-this page) is only three miles away, so if you think you might need that, go
+6. If you're in distress, don't wait! The urgent care clinic (at the top of
+this page) is only three miles away. If you think you might need that, go
 see them sooner rather than later.
 
 7. Another option is [The Fountain](https://www.thefountaincb.com/) on Elk & 4th, which can give you IV Therapy for altitude adjustment.
