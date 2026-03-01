@@ -36,9 +36,9 @@ weight: 160
   - We can't bring alcohol into the building (big fine)
   - Take off shoes for Jones Dance Room
 
-
 - Altitude: See the [Health](/health) page.
-  - The Fountain for IVs, Hyperbaric chamber in Gunnison, urgent care clinic at the ski area.
+  - It's usually a water issue & takes time to rehydrate
+  - The Fountain for IVs, urgent care clinic at the ski area, doctor in the Ore Bucket Building.
   - Let someone know soon if you're having trouble, don't wait until it's bad.
   - Take Ibuprofen if you have the slightest headache, to catch it early.
   - Alcohol is dehydrating, recommend avoiding it if you think you might have altitude issues.
