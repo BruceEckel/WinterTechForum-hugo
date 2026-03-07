@@ -25,9 +25,14 @@ weight: 160
   - Skiing, naps, etc. (it's also a retreat)
   - Workshops (again, be creative and bold and try experiments that might meet
     your needs. If you need it, chances are someone else will too). Post on app as "Activity" with address.
+  
+- Students
+  - Most rental houses are available to hang out in. You never need to go home and come back.
+  - Feel free to move around rental houses; check slack and the app for updates.
+  - Employed attendees: buy meals for students whenever you are able.
 
 - Lightning talks
-  - We assume it's OK to record lightning talks for Youtube unless you say otherwise. We might just do audio.
+  - We assume it's OK to record lightning talks for Youtube unless you say otherwise.
 
 - Center for the Arts
   - We want to leave a good impression with the center so we can keep using this great building
@@ -37,8 +42,8 @@ weight: 160
   - Take off shoes for Jones Dance Room
 
 - Altitude: See the [Health](/health) page.
-  - It's usually a water issue & takes time to rehydrate
-  - The Fountain for IVs, urgent care clinic at the ski area, doctor in the Ore Bucket Building.
+  - It's usually a water issue. Takes time to rehydrate
+  - The Fountain for IVs, urgent care clinic at the ski area, doctor in the Ore Bucket Building. (Oxygen per Center ad)
   - Let someone know soon if you're having trouble, don't wait until it's bad.
   - Take Ibuprofen if you have the slightest headache, to catch it early.
   - Alcohol is dehydrating, recommend avoiding it if you think you might have altitude issues.
@@ -50,18 +55,21 @@ weight: 160
   - Explicit permission to take care of yourself. Law of two feet writ large.
 
 - Hackathon day
-  - Tuesday after lightning talks: form groups and decide where to meet, post on app with address
+  - Tuesday after lightning talks: form groups and decide where to meet, post on app with address.
+  - If you get an idea after that, post it on the app.
 
 - Questions about restaurants: ask on Slack.
   Lunch: we recommend Momo's, Teocalli Tamale for good and fast. Ryce and Pitas in Paradise.
   The Gas Cafe makes good hamburgers.
   Breakfast & Lunch at McGill's is good. Paradise is good but slower.
   The good Thai restaurant is on the highway on the way to the mountain. The one on Elk is not recommended.
+  - Announce if you're going and form groups
 
 - Game nights: post on app with address.
 
 - Progressive Dinner Friday
+  - Don't try to make food for the whole group. You will end up with extra. The goal is to run out.
 
 - Saturday breakfast
 
-- Introductions: Your name, where you came from, one interesting thing about you
+- Introductions: Your name, where you came from, what's on your mind right now.

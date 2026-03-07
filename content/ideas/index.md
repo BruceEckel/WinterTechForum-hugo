@@ -3,15 +3,15 @@ title: Various Ideas and Suggestions
 weight: 170
 ---
 
+- Tripod for lightning talks
+- Material to assist recruiting newcomers
 - Emphasize speaking style and making room for others; creating a safe space. Put at beginning of
 opening session.
 - Session about new people; those who have come before can only ask questions
 - Session on building trust in company products
 - Switching places after courses during the banquet
 - Quiet room w/ beanbag chairs
-- Encourage people to get houses west of 6th Street
-- Custom post-it notes for open-spaces sessions
-- "Rest recharge connect"
+- "Rest recharge connect learn" (tag line?)
 - Shared note system, perhaps could even produce a kind of conference proceedings
 - Some kind of recording, along with an agreement and set of practices so we could
 livestream/podcast without the participants worrying about what they say. (mostly conditions
@@ -27,7 +27,6 @@ for pausing or turning off the feed). Needs to be something that can be sent out
 - Reserved slots at the end of the week, for spontaneous sessions
 - Book the gift of fear
 - Structure of discussion, to get everyone involved
-- Trello as OS board
 - Mission to zyxx podcast
 - ModernAgile.com
 - Pivotal Tracker
@@ -41,7 +40,6 @@ for pausing or turning off the feed). Needs to be something that can be sent out
 - Screenhero remote pairing
 - Error handling models by Joe Duffy
 - Motepair for Atom
-- Development hell podcast by grumpy
 - "recruit a friend" reminder and channel
 - Leave a room in your rental house for a new person. Help with transportation.
 - A checklist for new people
