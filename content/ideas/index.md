@@ -4,6 +4,7 @@ weight: 170
 ---
 
 - Badges should have large first names
+- Find ideas for community building (ask ai)
 - Tripod for lightning talks
 - Material to assist recruiting newcomers
 - Emphasize speaking style and making room for others; creating a safe space. Put at beginning of
