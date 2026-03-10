@@ -3,6 +3,7 @@ title: Various Ideas and Suggestions
 weight: 170
 ---
 
+- Badges should have large first names
 - Tripod for lightning talks
 - Material to assist recruiting newcomers
 - Emphasize speaking style and making room for others; creating a safe space. Put at beginning of
